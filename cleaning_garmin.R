@@ -74,6 +74,3 @@ coral_data <- garmin_wpt %>%
 
 # --- 5. Write to CSV ---
 write.csv(coral_data, filename, row.names = FALSE, na = "")
-
-# --- 5. Write to CSV ---
-write.csv(coral_data, filename, row.names = FALSE, na = "")
