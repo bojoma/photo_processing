@@ -50,11 +50,14 @@ coral_data <- garmin_wpt %>%
   
   # Select and rename columns to match metrics csv format
   transmute(
-    Filename = as.character(name),       # e.g., "P2050001"
+    # FIX: Extract exactly 1 letter (P or D) followed by exactly 7 numbers.
+    # This automatically strips any extra numbers BaseCamp added to the name!
+    Filename = str_extract(as.character(name), "^[PDpd]\\d{7}"),
+    
     Camera = camera,
     Date = as.Date(survey_date),
     Bay = bay,
-    `Coral location` = NA_character_, #insert location code if all same (e.g. "B")
+    `Coral location` = NA_character_, #insert coral location code if all same (e.g. "B")
     Lat = as.numeric(lat),
     Lon = as.numeric(lon),
     Species = NA_character_,
@@ -65,7 +68,12 @@ coral_data <- garmin_wpt %>%
     `Area (cm2)` = NA_real_,
     `Measured by` = NA_character_,
     Link = NA_character_          
-  )
+  ) %>%
+  # Remove any rows where the Filename extraction failed (returned NA)
+  filter(!is.na(Filename))
+
+# --- 5. Write to CSV ---
+write.csv(coral_data, filename, row.names = FALSE, na = "")
 
 # --- 5. Write to CSV ---
 write.csv(coral_data, filename, row.names = FALSE, na = "")
