@@ -1,0 +1,2 @@
+🪸 Coral Photo Classifier
+1. Load your CSV file
