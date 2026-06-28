@@ -1,10 +1,10 @@
 library(tidyverse)
 
 # --- Configuration ---
-filename <- "NB_Star_2-5-26.csv" #insert csv exported from garmin
-survey_date <- "2026-02-05" #insert month and day (mm-dd)
-bay <- "NB" #insert bay code
-camera <- "STAR" #insert camera
+filename <- ".csv" #insert csv exported from garmin
+survey_date <- "2026-" #insert month and day (mm-dd)
+bay <- "" #insert bay code
+camera <- "" #insert camera
 
 # --- 1. Read the file as raw text ---
 raw_lines <- readLines(filename, warn = FALSE)
@@ -41,7 +41,7 @@ coral_data <- garmin_wpt %>%
     Camera = camera,
     Date = as.Date(survey_date),
     Bay = bay,
-    `Coral location` = "B", #insert coral location code if all same (e.g. "B")
+    `Coral location` = NA_character_, #insert coral location code if all same (e.g. "B")
     Lat = as.numeric(lat),
     Lon = as.numeric(lon),
     Species = NA_character_,
