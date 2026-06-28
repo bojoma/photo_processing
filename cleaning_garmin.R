@@ -32,12 +32,10 @@ garmin_wpt <- read.csv(text = extract_lines, header = TRUE, stringsAsFactors = F
 # --- 4. Filter for photos and transform ---
 coral_data <- garmin_wpt %>%
   filter(str_to_lower(type) == "photo") %>%
-  
   mutate(
     Date = ymd_hms(time, quiet = TRUE) %>% as_date(),
     Date = if_else(is.na(Date), as_date(time), Date)
   ) %>%
-  
   transmute(
     Filename = substr(as.character(name), 1, 8), #keeps only first 8 characters
     Camera = camera,
