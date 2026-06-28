@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coral Classifier</title>
+  <script src="papaparse.min.js"></script>
+  <style>
+    :root {
+      --bg: #0b0d10; --card: #14171c; --text: #e6e8eb; --text-muted: #8b929a;
+      --accent: #4dabf7; --accent-hover: #3a9bf5; --border: #2a2f38; --input-bg: #1c2027;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; min-height: 100vh; display: flex; justify-content: center; }
+    .container { width: 100%; max-width: 1400px; }
+    .header { text-align: center; margin-bottom: 2rem; }
+    .header h1 { margin: 0; font-weight: 600; letter-spacing: -0.5px; }
+    .card { background: var(--card); border-radius: 12px; padding: 1.5rem; border: 1px solid var(--border); margin-bottom: 1.5rem; }
+    .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 1.5rem; }
+    @media (max-width: 1000px) { .grid { grid-template-columns: 1fr; } }
+    
+    .img-wrapper { background: #000; border-radius: 8px; overflow: hidden; height: 650px; display: flex; align-items: center; justify-content: center; position: relative; }
+    .img-wrapper img { 
+      max-width: 100%; max-height: 100%; object-fit: contain; 
+      transition: transform 0.15s ease-out; 
+      cursor: zoom-in; 
+    }
+    
+    .img-placeholder { position: absolute; text-align: center; color: var(--text-muted); padding: 1rem; }
+    .meta { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem; line-height: 1.4; }
+    .form-group { margin-bottom: 1rem; position: relative; }
+    label { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.4rem; font-weight: 500; }
+    input[type="text"], input[type="number"] { width: 100%; padding: 0.8rem; background: var(--input-bg); border: 1px solid var(--border); color: var(--text); border-radius: 6px; font-size: 1rem; transition: 0.2s; }
+    input:focus { outline: none; border-color: var(--accent); background: #232730; }
+    
+    .location-group { display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 1.5rem; }
+    .loc-btn { display: flex; align-items: center; justify-content: space-between; padding: 0.6rem 1rem; background: var(--input-bg); border: 1px solid var(--border); color: var(--text-muted); border-radius: 6px; cursor: pointer; transition: 0.2s; font-size: 0.9rem; text-align: left; }
+    .loc-btn:hover { border-color: #4a505c; color: var(--text); }
+    .loc-btn.active { background: var(--accent); color: #000; border-color: var(--accent); font-weight: 600; }
+    .loc-code { font-weight: bold; width: 20px; }
+    .loc-desc { font-size: 0.85rem; opacity: 0.9; }
+    .btn-group { display: flex; gap: 0.75rem; margin-top: 1.5rem; flex-wrap: wrap; }
+    button.action-btn { flex: 1; padding: 0.85rem; border: none; border-radius: 6px; font-size: 0.95rem; font-weight: 500; cursor: pointer; transition: 0.2s; min-width: 100px; }
+    .btn-primary { background: var(--accent); color: #000; }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-secondary { background: var(--border); color: var(--text); }
+    .btn-secondary:hover { background: #3a3f4b; }
+    .btn-danger { background: #ff6b6b; color: #fff; }
+    .btn-danger:hover { background: #ee5253; }
+    .btn-success { background: #2ecc71; color: #000; width: 100%; margin-top: 1rem; font-size: 1.1rem; padding: 1rem;}
+    .btn-success:hover { background: #27ae60; }
+    .btn-warning { background: #ff9f43; color: #000; }
+    .btn-warning:hover { background: #f39c12; }
+    .hidden { display: none !important; }
+    .progress { text-align: center; color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem; }
+    .upload-area { text-align: center; cursor: pointer; padding: 3rem 2rem; border: 2px dashed var(--border); border-radius: 10px; transition: 0.2s; }
+    .upload-area:hover { border-color: var(--accent); background: var(--input-bg); }
+    .upload-area input { display: none; }
+    .classifier-info { background: var(--input-bg); padding: 1rem; border-radius: 8px; margin-bottom: 1rem; border-left: 3px solid var(--accent); }
+    .classifier-info p { margin: 0 0 0.5rem 0; font-size: 0.9rem; }
+    .classifier-info strong { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header"><h1>🪸 Coral Photo Classifier</h1></div>
+
+    <div class="card" id="uploadSection">
+      <div class="form-group">
+        <!-- UPDATED LABEL -->
+        <label for="classifierName">Your Name (for "Classified by" column)</label>
+        <input type="text" id="classifierName" placeholder="e.g., MN" autocomplete="name">
+      </div>
+      <div class="form-group">
+        <label for="folderName">Photo Folder Path (Optional)</label>
+        <input type="text" id="folderName" placeholder="e.g., Camera offloads/Nathaniel_Bay/Black_NB_2-5-26" autocomplete="off">
+        <small style="color: var(--text-muted); font-size: 0.75rem;">Leave blank if photos are in the same folder as this HTML file.</small>
+      </div>
+      <label class="upload-area">
+        <span style="font-size: 1.1rem;">Click to load your CSV file</span><br>
+        <span style="font-size: 0.85rem; color: var(--text-muted);">Supports NB_Blue_2-5-2026.csv format</span>
+        <input type="file" id="csvInput" accept=".csv">
+      </label>
+    </div>
+
+    <div id="workspace" class="hidden">
+      <div class="progress" id="progressText">Photo 1 of 326</div>
+      <div class="classifier-info">
+        <p>Classifying as: <strong id="displayClassifierName">-</strong></p>
+        <p style="margin:0">Looking in folder: <strong id="displayFolderName">-</strong></p>
+      </div>
+      <div class="grid">
+        <div class="card">
+          <div class="img-wrapper">
+            <img id="photoImg" src="" alt="Coral photo">
+            <div class="img-placeholder hidden" id="imgPlaceholder">Image not found.<br>Check your folder path.</div>
+          </div>
+          <div class="meta" id="metaInfo">Loading metadata...</div>
+        </div>
+
+        <div class="card">
+          <label style="margin-bottom: 0.5rem;">Coral Location <span style="font-weight: normal; opacity: 0.7;">(Press R, U, M, D, B)</span></label>
+          <div class="location-group" id="locationGroup">
+            <button class="loc-btn" data-code="R" onclick="setLocation('R')"><span class="loc-code">R</span><span class="loc-desc">on prop root</span></button>
+            <button class="loc-btn" data-code="U" onclick="setLocation('U')"><span class="loc-code">U</span><span class="loc-desc">under prop roots</span></button>
+            <button class="loc-btn" data-code="M" onclick="setLocation('M')"><span class="loc-code">M</span><span class="loc-desc">1 m out from prop roots</span></button>
+            <button class="loc-btn" data-code="D" onclick="setLocation('D')"><span class="loc-code">D</span><span class="loc-desc">under dead mangrove material</span></button>
+            <button class="loc-btn" data-code="B" onclick="setLocation('B')"><span class="loc-code">B</span><span class="loc-desc">&gt; 1 m out / within bays</span></button>
+          </div>
+
+          <div class="form-group">
+            <label>Species (Start typing to autofill)</label>
+            <input type="text" id="speciesInput" list="speciesList" placeholder="e.g. SRAD" autocomplete="off">
+            <datalist id="speciesList"></datalist>
+          </div>
+          <div class="form-group">
+            <label>Count</label>
+            <input type="number" id="countInput" placeholder="1" min="0">
+          </div>
+          <div class="btn-group">
+            <button class="action-btn btn-secondary" id="prevBtn" style="display: none;">⬅️ Previous</button>
+            <button class="action-btn btn-danger" id="archiveBtn">Archive</button>
+            <button class="action-btn btn-warning" id="saveProgressBtn">💾 Save Progress</button>
+            <button class="action-btn btn-secondary" id="skipBtn">Skip</button>
+            <button class="action-btn btn-primary" id="nextBtn">Save ➡️</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="downloadSection" class="card hidden" style="text-align: center;">
+      <h3 style="margin-top: 0; color: var(--accent);">✅ Classification Complete!</h3>
+      <p style="color: var(--text-muted); margin-bottom: 1rem;">
+        Processed <span id="processedCount">0</span> photos. Archived <span id="archivedCount" style="color: #ff6b6b; font-weight: bold;">0</span> duplicates.
+      </p>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <button class="action-btn btn-success" id="downloadBtn">⬇️ Download Final CSV</button>
+        <button class="action-btn btn-warning" id="downloadArchiveBtn"> Download Archive List (.txt)</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let data = [];
+    let currentIndex = 0;
+    let archivedFiles = [];
+    let currentLocation = '';
+    let classifierName = '';
+    let photoFolder = '';
+    let knownSpecies = []; 
+    let isReviewing = false; 
+    let currentScale = 1; 
+
+    function updateSpeciesList() {
+      const datalist = document.getElementById('speciesList');
+      datalist.innerHTML = ''; 
+      knownSpecies.forEach(species => {
+        const option = document.createElement('option');
+        option.value = species;
+        datalist.appendChild(option);
+      });
+    }
+
+    function saveToBrowser() {
+      try {
+        localStorage.setItem('coral_data', JSON.stringify(data));
+        localStorage.setItem('coral_index', currentIndex);
+        localStorage.setItem('coral_archived', JSON.stringify(archivedFiles));
+      } catch(e) { console.log("Browser memory full."); }
+    }
+
+    function showCompletionScreen() {
+      document.getElementById('workspace').classList.add('hidden');
+      document.getElementById('downloadSection').classList.remove('hidden');
+      document.getElementById('processedCount').textContent = data.length - archivedFiles.length;
+      document.getElementById('archivedCount').textContent = archivedFiles.length;
+      localStorage.removeItem('coral_data');
+      localStorage.removeItem('coral_index');
+      localStorage.removeItem('coral_archived');
+    }
+
+    document.getElementById('csvInput').addEventListener('change', function(e) {
+      classifierName = document.getElementById('classifierName').value.trim();
+      if (!classifierName) {
+        alert('Please enter your name before loading the CSV.');
+        document.getElementById('classifierName').focus();
+        return;
+      }
+      
+      photoFolder = document.getElementById('folderName').value.trim();
+      document.getElementById('displayClassifierName').textContent = classifierName;
+      document.getElementById('displayFolderName').textContent = photoFolder || 'Same folder as HTML file';
+      
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const savedData = localStorage.getItem('coral_data');
+      if (savedData) {
+        if (confirm("You have unsaved progress in this browser. Do you want to resume it?")) {
+          data = JSON.parse(savedData);
+          currentIndex = parseInt(localStorage.getItem('coral_index')) || 0;
+          archivedFiles = JSON.parse(localStorage.getItem('coral_archived')) || [];
+          data.forEach(row => {
+            if (row['Species'] && row['Species'].trim() !== '') {
+              const s = row['Species'].trim();
+              if (!knownSpecies.includes(s)) knownSpecies.push(s);
+            }
+          });
+          updateSpeciesList();
+          document.getElementById('uploadSection').classList.add('hidden');
+          document.getElementById('workspace').classList.remove('hidden');
+          loadNext();
+          return;
+        } else {
+          localStorage.removeItem('coral_data');
+          localStorage.removeItem('coral_index');
+          localStorage.removeItem('coral_archived');
+        }
+      }
+
+      Papa.parse(file, {
+        header: true, skipEmptyLines: true,
+        complete: function(results) {
+          data = results.data;
+          data.forEach(row => {
+            if (row['Species'] && row['Species'].trim() !== '') {
+              const s = row['Species'].trim();
+              if (!knownSpecies.includes(s)) knownSpecies.push(s);
+            }
+          });
+          updateSpeciesList();
+          document.getElementById('uploadSection').classList.add('hidden');
+          document.getElementById('workspace').classList.remove('hidden');
+          loadNext();
+        }
+      });
+    });
+
+    function loadNext() {
+      while (currentIndex < data.length) {
+        if (!data[currentIndex]['Species'] || data[currentIndex]['Species'].trim() === '') {
+          displayRow(data[currentIndex]);
+          return;
+        }
+        currentIndex++;
+      }
+      showCompletionScreen();
+    }
+
+    function displayRow(row) {
+      document.getElementById('progressText').textContent = `Photo ${currentIndex + 1} of ${data.length} | Archived: ${archivedFiles.length}`;
+      
+      const prevBtn = document.getElementById('prevBtn');
+      if (currentIndex > 0) prevBtn.style.display = 'block';
+      else prevBtn.style.display = 'none';
+      
+      document.getElementById('metaInfo').innerHTML = 
+        `<strong>${row['Filename'] || 'Unknown'}</strong><br>` +
+        `Date: ${row['Date'] || '-'} &nbsp;|&nbsp; Lat: ${row['Lat'] || '-'} &nbsp;|&nbsp; Lon: ${row['Lon'] || '-'}`;
+
+      const imgEl = document.getElementById('photoImg');
+      const placeholder = document.getElementById('imgPlaceholder');
+      let imgName = row['Filename'] || '';
+      if (imgName && !imgName.includes('.')) imgName += '.JPG';
+      
+      let imgPath = imgName ? (photoFolder ? `${photoFolder}/${imgName}` : imgName) : '';
+      
+      currentScale = 1;
+      imgEl.style.transform = 'scale(1)';
+      imgEl.style.transformOrigin = 'center center';
+      imgEl.style.cursor = 'zoom-in';
+
+      imgEl.src = imgPath;
+      imgEl.classList.add('hidden');
+      placeholder.classList.remove('hidden');
+
+      imgEl.onload = () => { imgEl.classList.remove('hidden'); placeholder.classList.add('hidden'); };
+      imgEl.onerror = () => { imgEl.classList.add('hidden'); placeholder.classList.remove('hidden'); };
+
+      document.getElementById('speciesInput').value = row['Species'] || '';
+      document.getElementById('countInput').value = row['Count'] || '1'; 
+      
+      setLocation(row['Location'] || ''); 
+      document.getElementById('speciesInput').focus();
+    }
+
+    function setLocation(code) {
+      currentLocation = code;
+      document.querySelectorAll('.loc-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.code === code);
+      });
+    }
+
+    function moveForward() {
+      currentIndex++;
+      if (currentIndex < data.length) {
+        if (isReviewing) {
+          displayRow(data[currentIndex]);
+          if (!data[currentIndex]['Species'] || data[currentIndex]['Species'].trim() === '') isReviewing = false;
+        } else { loadNext(); }
+      } else { showCompletionScreen(); }
+    }
+
+    function saveAndNext() {
+      const currentSpecies = document.getElementById('speciesInput').value.trim();
+      data[currentIndex]['Species'] = currentSpecies;
+      data[currentIndex]['Count'] = document.getElementById('countInput').value;
+      data[currentIndex]['Location'] = currentLocation; 
+      
+      // FIXED: Changed from 'Entered by' to 'Classified by' to match your R script!
+      data[currentIndex]['Classified by'] = classifierName; 
+      
+      if (currentSpecies && !knownSpecies.includes(currentSpecies)) {
+        knownSpecies.push(currentSpecies);
+        updateSpeciesList();
+      }
+
+      let imgName = data[currentIndex]['Filename'] || '';
+      if (imgName && !imgName.includes('.')) imgName += '.JPG';
+      data[currentIndex]['Image'] = photoFolder ? `${photoFolder}/${imgName}` : imgName;
+
+      saveToBrowser();
+      moveForward();
+    }
+
+    function goToPrevious() {
+      if (currentIndex > 0) {
+        currentIndex--;
+        isReviewing = true;
+        displayRow(data[currentIndex]);
+      }
+    }
+
+    document.getElementById('nextBtn').addEventListener('click', saveAndNext);
+    document.getElementById('prevBtn').addEventListener('click', goToPrevious);
+    document.getElementById('skipBtn').addEventListener('click', () => { saveToBrowser(); moveForward(); });
+    
+    document.getElementById('archiveBtn').addEventListener('click', function() {
+      const row = data[currentIndex];
+      let imgName = row['Filename'] || '';
+      if (imgName && !imgName.includes('.')) imgName += '.JPG';
+      archivedFiles.push(photoFolder ? `${photoFolder}/${imgName}` : imgName);
+      saveToBrowser();
+      moveForward();
+    });
+
+    document.getElementById('saveProgressBtn').addEventListener('click', function() {
+      const finalData = data.filter(row => {
+        let imgName = row['Filename'] || '';
+        if (imgName && !imgName.includes('.')) imgName += '.JPG';
+        const fullPath = photoFolder ? `${photoFolder}/${imgName}` : imgName;
+        return !archivedFiles.includes(fullPath);
+      });
+      const csv = Papa.unparse(finalData);
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'PROGRESS_' + new Date().toISOString().slice(0,10) + '.csv';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (document.getElementById('workspace').classList.contains('hidden')) return;
+      const isTyping = document.activeElement.tagName === 'INPUT';
+      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); saveAndNext(); } 
+      else if (e.key === 'ArrowLeft' && !isTyping) { e.preventDefault(); goToPrevious(); } 
+      else if (!isTyping) {
+        const key = e.key.toUpperCase();
+        if (['R', 'U', 'M', 'D', 'B'].includes(key)) setLocation(key);
+      }
+    });
+
+    document.getElementById('downloadBtn').addEventListener('click', function() {
+      const finalData = data.filter(row => {
+        let imgName = row['Filename'] || '';
+        if (imgName && !imgName.includes('.')) imgName += '.JPG';
+        const fullPath = photoFolder ? `${photoFolder}/${imgName}` : imgName;
+        return !archivedFiles.includes(fullPath);
+      });
+      const csv = Papa.unparse(finalData);
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url; a.download = 'FINAL_CLASSIFIED.csv';
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+
+    document.getElementById('downloadArchiveBtn').addEventListener('click', function() {
+      if (archivedFiles.length === 0) { alert("No files were archived!"); return; }
+      const list = archivedFiles.join('\n');
+      const blob = new Blob([list], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url; a.download = 'ARCHIVED_DUPLICATES.txt';
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+
+    // --- ZOOM LOGIC ---
+    const imgEl = document.getElementById('photoImg');
+    
+    imgEl.addEventListener('click', function(e) {
+      if (currentScale >= 4) return; 
+      currentScale *= 2;
+      
+      const rect = imgEl.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      const xPercent = (x / rect.width) * 100;
+      const yPercent = (y / rect.height) * 100;
+      
+      imgEl.style.transformOrigin = `${xPercent}% ${yPercent}%`;
+      imgEl.style.transform = `scale(${currentScale})`;
+      imgEl.style.cursor = 'zoom-out';
+    });
+
+    imgEl.addEventListener('contextmenu', function(e) {
+      e.preventDefault(); 
+      if (currentScale <= 1) return;
+      currentScale /= 2;
+      
+      if (currentScale <= 1) {
+        currentScale = 1;
+        imgEl.style.transformOrigin = 'center center';
+        imgEl.style.cursor = 'zoom-in';
+      }
+      imgEl.style.transform = `scale(${currentScale})`;
+    });
+  </script>
+</body>
+</html>
