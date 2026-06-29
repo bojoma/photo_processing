@@ -1,13 +1,3 @@
----
-title: "README"
-output: html_document
-date: "2026-06-28"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Coral Photo Classifier
 
 A web-based tool for classifying coral photos from underwater surveys. This app runs locally in your browser and helps you efficiently classify coral species, locations, and counts from camera trap images.
@@ -19,7 +9,7 @@ A web-based tool for classifying coral photos from underwater surveys. This app 
 - 💾 **Auto-save** - Your progress is automatically saved in the browser
 - 📝 **Autofill species** - Start typing to see previously used species names
 - ⏮️ **Go back** - Easily navigate to previous photos to make corrections
--  **Progress tracking** - See how many photos you've classified
+- 📊 **Progress tracking** - See how many photos you've classified
 
 ## Installation & Setup
 
@@ -114,7 +104,7 @@ For each photo, fill in:
 ### Navigation Controls
 
 - **Save ➡️** or **Enter** - Save and move to next photo
-- **️ Previous** - Go back to the previous photo
+- **⬅️ Previous** - Go back to the previous photo
 - **Skip** - Skip this photo without classifying
 - **Archive** - Mark photo as duplicate or unusable
 
@@ -196,3 +186,56 @@ If you encounter any issues or have questions, please contact the project mainta
 ---
 
 **Note:** This app runs entirely in your browser - no data is sent to external servers. All your work stays on your computer.
+
+---
+
+## Alternative Setup Methods (If Python Doesn't Work)
+
+If the Python steps above gave you a headache, or if your computer doesn't have Python installed, here are easier ways to start the local server. You **must** use one of these methods because web browsers block direct file access for security reasons.
+
+### Option 1: VS Code Live Server (Easiest & Recommended)
+1. Download and install **Visual Studio Code** (free): https://code.visualstudio.com/
+2. Open VS Code and click the **Extensions** icon (the square blocks on the left sidebar).
+3. Search for **"Live Server"** and click **Install**.
+4. In VS Code, go to **File → Open Folder** and select your project folder.
+5. In the file explorer on the left, **right-click `index.html`** and select **"Open with Live Server"**.
+6. Your browser will automatically open to the app!
+
+### Option 2: Double-Click Script for Windows
+1. Open **Notepad** and paste the following text:
+   ```batch
+   @echo off
+   echo Starting Coral Classifier...
+   echo.
+   echo Open your browser to: http://localhost:8000
+   echo Press Ctrl+C to stop the server when you are done.
+   echo.
+   python -m http.server 8000
+   pause
+   ```
+2. Go to **File → Save As**.
+3. In the "Save as type" dropdown at the bottom, select **All Files (*.*)**.
+4. Save the file in your project folder as `start_app.bat`.
+5. Now, just **double-click `start_app.bat`** whenever you want to start classifying!
+
+### Option 3: Double-Click Script for Mac
+1. Open the **TextEdit** app. Go to the top menu bar: **Format → Make Plain Text**.
+2. Paste the following text:
+   ```bash
+   #!/bin/bash
+   cd "$(dirname "$0")"
+   echo "Starting Coral Classifier..."
+   echo "Open your browser to: http://localhost:8000"
+   echo "Press Ctrl+C to stop the server when you are done."
+   python3 -m http.server 8000
+   ```
+3. Save the file in your project folder as `start_app.command`.
+4. **One-time setup:** Open Terminal, type `chmod +x ` *(make sure to include the space after the x)*, drag the `start_app.command` file from Finder into Terminal, and press Enter.
+5. Now, just **double-click `start_app.command`** whenever you want to start classifying!
+
+### Option 4: Use a Pre-Made Server App
+Download one of these simple, drag-and-drop server apps (no coding required):
+- **HFS (HTTP File Server)** for Windows: http://www.rejetto.com/hfs/
+- **Mongoose** (cross-platform): https://cesanta.com/mongoose.html
+
+Just open the app, point it to your folder, and it will create a local server URL for you instantly.
