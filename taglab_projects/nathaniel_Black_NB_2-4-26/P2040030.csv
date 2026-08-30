@@ -1,0 +1,2 @@
+Image name,TagLab Date,TagLab Type,TagLab Genet Id,TagLab Id,TagLab Class name,TagLab Centroid x,TagLab Centroid y,TagLab Perimeter,TagLab Area,TagLab Surf. area,TagLab Note,areaConvex,areaBBox,majSideRectangle,minSideRectangle,orientationRectangle,majAxisEllipse,minAxisEllipse,orientationEllipse,eccentricityEllipse
+P2040030.JPG,2026-04-20,Region,0,0,PDIG,2232.7,1838.7,20.2,12.55,0.0,M,1579.9,2171.7,44.5,44.4,-68.13,52.9,35.8,-22.32,0.74

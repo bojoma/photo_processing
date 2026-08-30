@@ -1,0 +1,2 @@
+Image name,TagLab Date,TagLab Type,TagLab Genet Id,TagLab Id,TagLab Class name,TagLab Centroid x,TagLab Centroid y,TagLab Perimeter,TagLab Area,TagLab Surf. area,TagLab Note,areaConvex,areaBBox,majSideRectangle,minSideRectangle,orientationRectangle,majAxisEllipse,minAxisEllipse,orientationEllipse,eccentricityEllipse
+P2040005.JPG,2026-04-20,Region,0,0,Porites_branching,1770.0,1908.8,13.2,4.66,0.0,M,707.7,941.8,46.1,19.7,-3.7,50.1,17.4,-0.08,0.94

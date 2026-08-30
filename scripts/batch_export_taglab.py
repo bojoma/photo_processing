@@ -2,8 +2,8 @@ import json
 import os
 import csv
 
-PROJECTS_DIRECTORY = "/Users/margofarley/Desktop/taglab_projects/"
-OUTPUT_CSV = "/Users/margofarley/Desktop/Thesis/data/hh/master_taglab_data.csv"
+PROJECTS_DIRECTORY = "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/photo_processing/taglab_projects/"
+OUTPUT_CSV = "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/photo_processing/data/master_taglab_data.csv"
 
 os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
 
