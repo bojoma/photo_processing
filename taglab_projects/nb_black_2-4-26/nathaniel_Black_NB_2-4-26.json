@@ -1,7 +1,7 @@
 {
  "filename": "/Users/margofarley/Desktop/taglab_projects/nathaniel_Black_NB_2-4-26/nathaniel_Black_NB_2-4-26.json",
  "working_area": null,
- "dictionary_name": "Margo_Coral_Thesis_Dictionary",
+ "dictionary_name": "Margo_Coral_thesis_Dictionary",
  "dictionary_description": "Custom dictionary for Hurricane Hole surveys",
  "labels": {
   "Empty": {
@@ -887,7 +887,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040001.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040001.JPG",
      "type": "RGB"
     }
    ],
@@ -918,7 +918,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040003.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040003.JPG",
      "type": "RGB"
     }
    ],
@@ -949,7 +949,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040004.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040004.JPG",
      "type": "RGB"
     }
    ],
@@ -1013,7 +1013,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040005.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040005.JPG",
      "type": "RGB"
     }
    ],
@@ -1044,7 +1044,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040006.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040006.JPG",
      "type": "RGB"
     }
    ],
@@ -1075,7 +1075,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040007.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040007.JPG",
      "type": "RGB"
     }
    ],
@@ -1106,7 +1106,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040008.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040008.JPG",
      "type": "RGB"
     }
    ],
@@ -1137,7 +1137,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040009.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040009.JPG",
      "type": "RGB"
     }
    ],
@@ -1168,7 +1168,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040010.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040010.JPG",
      "type": "RGB"
     }
    ],
@@ -1232,7 +1232,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040011.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040011.JPG",
      "type": "RGB"
     }
    ],
@@ -1263,7 +1263,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040012.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040012.JPG",
      "type": "RGB"
     }
    ],
@@ -1327,7 +1327,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040013.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040013.JPG",
      "type": "RGB"
     }
    ],
@@ -1358,7 +1358,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040014.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040014.JPG",
      "type": "RGB"
     }
    ],
@@ -1422,7 +1422,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040015.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040015.JPG",
      "type": "RGB"
     }
    ],
@@ -1453,7 +1453,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040016.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040016.JPG",
      "type": "RGB"
     }
    ],
@@ -1517,7 +1517,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040017.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040017.JPG",
      "type": "RGB"
     }
    ],
@@ -1548,7 +1548,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040018.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040018.JPG",
      "type": "RGB"
     }
    ],
@@ -1612,7 +1612,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040019.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040019.JPG",
      "type": "RGB"
     }
    ],
@@ -1643,7 +1643,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040020.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040020.JPG",
      "type": "RGB"
     }
    ],
@@ -1707,7 +1707,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040021.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040021.JPG",
      "type": "RGB"
     }
    ],
@@ -1738,7 +1738,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040022.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040022.JPG",
      "type": "RGB"
     }
    ],
@@ -1802,7 +1802,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040023.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040023.JPG",
      "type": "RGB"
     }
    ],
@@ -1833,7 +1833,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040024.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040024.JPG",
      "type": "RGB"
     }
    ],
@@ -1897,7 +1897,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040025.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040025.JPG",
      "type": "RGB"
     }
    ],
@@ -1928,7 +1928,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040026.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040026.JPG",
      "type": "RGB"
     }
    ],
@@ -1959,7 +1959,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040027.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040027.JPG",
      "type": "RGB"
     }
    ],
@@ -2025,7 +2025,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040028.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040028.JPG",
      "type": "RGB"
     }
    ],
@@ -2056,7 +2056,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040029.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040029.JPG",
      "type": "RGB"
     }
    ],
@@ -2120,7 +2120,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040030.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040030.JPG",
      "type": "RGB"
     }
    ],
@@ -2184,7 +2184,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040031.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040031.JPG",
      "type": "RGB"
     }
    ],
@@ -2215,7 +2215,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040032.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040032.JPG",
      "type": "RGB"
     }
    ],
@@ -2279,7 +2279,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040033.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040033.JPG",
      "type": "RGB"
     }
    ],
@@ -2310,7 +2310,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040034.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040034.JPG",
      "type": "RGB"
     }
    ],
@@ -2374,7 +2374,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040035.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040035.JPG",
      "type": "RGB"
     }
    ],
@@ -2405,7 +2405,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040036.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040036.JPG",
      "type": "RGB"
     }
    ],
@@ -2471,7 +2471,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040037.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040037.JPG",
      "type": "RGB"
     }
    ],
@@ -2502,7 +2502,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040038.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040038.JPG",
      "type": "RGB"
     }
    ],
@@ -2566,7 +2566,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040039.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040039.JPG",
      "type": "RGB"
     }
    ],
@@ -2597,7 +2597,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040040.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040040.JPG",
      "type": "RGB"
     }
    ],
@@ -2661,7 +2661,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040041.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040041.JPG",
      "type": "RGB"
     }
    ],
@@ -2692,7 +2692,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040042.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040042.JPG",
      "type": "RGB"
     }
    ],
@@ -2756,7 +2756,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040043.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040043.JPG",
      "type": "RGB"
     }
    ],
@@ -2787,7 +2787,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040044.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040044.JPG",
      "type": "RGB"
     }
    ],
@@ -2851,7 +2851,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040045.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040045.JPG",
      "type": "RGB"
     }
    ],
@@ -2882,7 +2882,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040046.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040046.JPG",
      "type": "RGB"
     }
    ],
@@ -2946,7 +2946,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040047.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040047.JPG",
      "type": "RGB"
     }
    ],
@@ -2977,7 +2977,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040048.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040048.JPG",
      "type": "RGB"
     }
    ],
@@ -3041,7 +3041,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040049.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040049.JPG",
      "type": "RGB"
     }
    ],
@@ -3072,7 +3072,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040050.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040050.JPG",
      "type": "RGB"
     }
    ],
@@ -3136,7 +3136,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040051.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040051.JPG",
      "type": "RGB"
     }
    ],
@@ -3167,7 +3167,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040052.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040052.JPG",
      "type": "RGB"
     }
    ],
@@ -3231,7 +3231,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040053.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040053.JPG",
      "type": "RGB"
     }
    ],
@@ -3262,7 +3262,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040054.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040054.JPG",
      "type": "RGB"
     }
    ],
@@ -3326,7 +3326,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040055.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040055.JPG",
      "type": "RGB"
     }
    ],
@@ -3390,7 +3390,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040056.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040056.JPG",
      "type": "RGB"
     }
    ],
@@ -3421,7 +3421,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040057.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040057.JPG",
      "type": "RGB"
     }
    ],
@@ -3485,7 +3485,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040058.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040058.JPG",
      "type": "RGB"
     }
    ],
@@ -3516,7 +3516,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040059.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040059.JPG",
      "type": "RGB"
     }
    ],
@@ -3580,7 +3580,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040060.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040060.JPG",
      "type": "RGB"
     }
    ],
@@ -3611,7 +3611,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040061.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040061.JPG",
      "type": "RGB"
     }
    ],
@@ -3675,7 +3675,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040062.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040062.JPG",
      "type": "RGB"
     }
    ],
@@ -3706,7 +3706,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040063.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040063.JPG",
      "type": "RGB"
     }
    ],
@@ -3802,7 +3802,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040064.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040064.JPG",
      "type": "RGB"
     }
    ],
@@ -3833,7 +3833,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040065.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040065.JPG",
      "type": "RGB"
     }
    ],
@@ -3897,7 +3897,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040066.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040066.JPG",
      "type": "RGB"
     }
    ],
@@ -3928,7 +3928,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040067.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040067.JPG",
      "type": "RGB"
     }
    ],
@@ -3959,7 +3959,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040068.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040068.JPG",
      "type": "RGB"
     }
    ],
@@ -4023,7 +4023,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040069.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040069.JPG",
      "type": "RGB"
     }
    ],
@@ -4054,7 +4054,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040070.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040070.JPG",
      "type": "RGB"
     }
    ],
@@ -4118,7 +4118,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040071.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040071.JPG",
      "type": "RGB"
     }
    ],
@@ -4149,7 +4149,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040072.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040072.JPG",
      "type": "RGB"
     }
    ],
@@ -4247,7 +4247,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040073.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040073.JPG",
      "type": "RGB"
     }
    ],
@@ -4278,7 +4278,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040074.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040074.JPG",
      "type": "RGB"
     }
    ],
@@ -4438,7 +4438,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040075.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040075.JPG",
      "type": "RGB"
     }
    ],
@@ -4469,7 +4469,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040076.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040076.JPG",
      "type": "RGB"
     }
    ],
@@ -4597,7 +4597,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040077.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040077.JPG",
      "type": "RGB"
     }
    ],
@@ -4628,7 +4628,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040078.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040078.JPG",
      "type": "RGB"
     }
    ],
@@ -4692,7 +4692,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040079.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040079.JPG",
      "type": "RGB"
     }
    ],
@@ -4723,7 +4723,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040080.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040080.JPG",
      "type": "RGB"
     }
    ],
@@ -4789,7 +4789,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040081.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040081.JPG",
      "type": "RGB"
     }
    ],
@@ -4820,7 +4820,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040082.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040082.JPG",
      "type": "RGB"
     }
    ],
@@ -4948,7 +4948,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040083.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040083.JPG",
      "type": "RGB"
     }
    ],
@@ -4979,7 +4979,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040084.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040084.JPG",
      "type": "RGB"
     }
    ],
@@ -5043,7 +5043,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040085.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040085.JPG",
      "type": "RGB"
     }
    ],
@@ -5074,7 +5074,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040086.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040086.JPG",
      "type": "RGB"
     }
    ],
@@ -5138,7 +5138,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040087.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040087.JPG",
      "type": "RGB"
     }
    ],
@@ -5202,7 +5202,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040088.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040088.JPG",
      "type": "RGB"
     }
    ],
@@ -5233,7 +5233,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040089.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040089.JPG",
      "type": "RGB"
     }
    ],
@@ -5297,7 +5297,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040090.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040090.JPG",
      "type": "RGB"
     }
    ],
@@ -5328,7 +5328,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040091.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040091.JPG",
      "type": "RGB"
     }
    ],
@@ -5392,7 +5392,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040092.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040092.JPG",
      "type": "RGB"
     }
    ],
@@ -5423,7 +5423,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040093.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040093.JPG",
      "type": "RGB"
     }
    ],
@@ -5487,7 +5487,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040094.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040094.JPG",
      "type": "RGB"
     }
    ],
@@ -5518,7 +5518,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040095.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040095.JPG",
      "type": "RGB"
     }
    ],
@@ -5582,7 +5582,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040096.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040096.JPG",
      "type": "RGB"
     }
    ],
@@ -5613,7 +5613,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040097.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040097.JPG",
      "type": "RGB"
     }
    ],
@@ -5677,7 +5677,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040098.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040098.JPG",
      "type": "RGB"
     }
    ],
@@ -5708,7 +5708,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040099.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040099.JPG",
      "type": "RGB"
     }
    ],
@@ -5772,7 +5772,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040100.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040100.JPG",
      "type": "RGB"
     }
    ],
@@ -5803,7 +5803,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040101.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040101.JPG",
      "type": "RGB"
     }
    ],
@@ -6061,7 +6061,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040102.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040102.JPG",
      "type": "RGB"
     }
    ],
@@ -6092,7 +6092,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040103.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040103.JPG",
      "type": "RGB"
     }
    ],
@@ -6188,7 +6188,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040104.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040104.JPG",
      "type": "RGB"
     }
    ],
@@ -6219,7 +6219,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040105.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040105.JPG",
      "type": "RGB"
     }
    ],
@@ -6285,7 +6285,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040106.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040106.JPG",
      "type": "RGB"
     }
    ],
@@ -6316,7 +6316,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040107.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040107.JPG",
      "type": "RGB"
     }
    ],
@@ -6380,7 +6380,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040108.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040108.JPG",
      "type": "RGB"
     }
    ],
@@ -6411,7 +6411,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040109.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040109.JPG",
      "type": "RGB"
     }
    ],
@@ -6507,7 +6507,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040110.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040110.JPG",
      "type": "RGB"
     }
    ],
@@ -6538,7 +6538,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040111.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040111.JPG",
      "type": "RGB"
     }
    ],
@@ -6602,7 +6602,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040112.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040112.JPG",
      "type": "RGB"
     }
    ],
@@ -6633,7 +6633,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040113.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040113.JPG",
      "type": "RGB"
     }
    ],
@@ -6697,7 +6697,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040114.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040114.JPG",
      "type": "RGB"
     }
    ],
@@ -6728,7 +6728,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040115.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040115.JPG",
      "type": "RGB"
     }
    ],
@@ -6759,7 +6759,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040116.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040116.JPG",
      "type": "RGB"
     }
    ],
@@ -6790,7 +6790,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040117.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040117.JPG",
      "type": "RGB"
     }
    ],
@@ -6821,7 +6821,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040118.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040118.JPG",
      "type": "RGB"
     }
    ],
@@ -6852,7 +6852,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040119.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040119.JPG",
      "type": "RGB"
     }
    ],
@@ -6883,7 +6883,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040120.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040120.JPG",
      "type": "RGB"
     }
    ],
@@ -6979,7 +6979,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040121.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040121.JPG",
      "type": "RGB"
     }
    ],
@@ -7010,7 +7010,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040122.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040122.JPG",
      "type": "RGB"
     }
    ],
@@ -7074,7 +7074,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040123.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040123.JPG",
      "type": "RGB"
     }
    ],
@@ -7105,7 +7105,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040124.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040124.JPG",
      "type": "RGB"
     }
    ],
@@ -7233,7 +7233,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040125.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040125.JPG",
      "type": "RGB"
     }
    ],
@@ -7264,7 +7264,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040126.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040126.JPG",
      "type": "RGB"
     }
    ],
@@ -7360,7 +7360,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040127.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040127.JPG",
      "type": "RGB"
     }
    ],
@@ -7391,7 +7391,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040128.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040128.JPG",
      "type": "RGB"
     }
    ],
@@ -7455,7 +7455,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040129.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040129.JPG",
      "type": "RGB"
     }
    ],
@@ -7486,7 +7486,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040130.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040130.JPG",
      "type": "RGB"
     }
    ],
@@ -7550,7 +7550,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040131.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040131.JPG",
      "type": "RGB"
     }
    ],
@@ -7614,7 +7614,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040132.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040132.JPG",
      "type": "RGB"
     }
    ],
@@ -7678,7 +7678,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040133.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040133.JPG",
      "type": "RGB"
     }
    ],
@@ -7742,7 +7742,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040134.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040134.JPG",
      "type": "RGB"
     }
    ],
@@ -7806,7 +7806,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040135.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040135.JPG",
      "type": "RGB"
     }
    ],
@@ -7870,7 +7870,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040136.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040136.JPG",
      "type": "RGB"
     }
    ],
@@ -7901,7 +7901,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040137.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040137.JPG",
      "type": "RGB"
     }
    ],
@@ -7965,7 +7965,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040138.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040138.JPG",
      "type": "RGB"
     }
    ],
@@ -7996,7 +7996,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040139.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040139.JPG",
      "type": "RGB"
     }
    ],
@@ -8092,7 +8092,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040140.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040140.JPG",
      "type": "RGB"
     }
    ],
@@ -8123,7 +8123,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040141.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040141.JPG",
      "type": "RGB"
     }
    ],
@@ -8187,7 +8187,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040142.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040142.JPG",
      "type": "RGB"
     }
    ],
@@ -8218,7 +8218,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040143.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040143.JPG",
      "type": "RGB"
     }
    ],
@@ -8284,7 +8284,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040144.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040144.JPG",
      "type": "RGB"
     }
    ],
@@ -8348,7 +8348,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040145.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040145.JPG",
      "type": "RGB"
     }
    ],
@@ -8412,7 +8412,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040146.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040146.JPG",
      "type": "RGB"
     }
    ],
@@ -8476,7 +8476,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040147.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040147.JPG",
      "type": "RGB"
     }
    ],
@@ -8540,7 +8540,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040148.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040148.JPG",
      "type": "RGB"
     }
    ],
@@ -8604,7 +8604,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040149.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040149.JPG",
      "type": "RGB"
     }
    ],
@@ -8635,7 +8635,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040150.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040150.JPG",
      "type": "RGB"
     }
    ],
@@ -8699,7 +8699,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040151.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040151.JPG",
      "type": "RGB"
     }
    ],
@@ -8730,7 +8730,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040152.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040152.JPG",
      "type": "RGB"
     }
    ],
@@ -8794,7 +8794,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040153.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040153.JPG",
      "type": "RGB"
     }
    ],
@@ -8825,7 +8825,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040154.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040154.JPG",
      "type": "RGB"
     }
    ],
@@ -8889,7 +8889,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040155.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040155.JPG",
      "type": "RGB"
     }
    ],
@@ -8920,7 +8920,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040156.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040156.JPG",
      "type": "RGB"
     }
    ],
@@ -9016,7 +9016,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040157.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040157.JPG",
      "type": "RGB"
     }
    ],
@@ -9047,7 +9047,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040158.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040158.JPG",
      "type": "RGB"
     }
    ],
@@ -9078,7 +9078,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040159.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040159.JPG",
      "type": "RGB"
     }
    ],
@@ -9142,7 +9142,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040160.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040160.JPG",
      "type": "RGB"
     }
    ],
@@ -9173,7 +9173,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040161.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040161.JPG",
      "type": "RGB"
     }
    ],
@@ -9269,7 +9269,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040162.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040162.JPG",
      "type": "RGB"
     }
    ],
@@ -9300,7 +9300,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040163.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040163.JPG",
      "type": "RGB"
     }
    ],
@@ -9396,7 +9396,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040164.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040164.JPG",
      "type": "RGB"
     }
    ],
@@ -9427,7 +9427,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040165.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040165.JPG",
      "type": "RGB"
     }
    ],
@@ -9491,7 +9491,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040166.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040166.JPG",
      "type": "RGB"
     }
    ],
@@ -9555,7 +9555,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040167.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040167.JPG",
      "type": "RGB"
     }
    ],
@@ -9586,7 +9586,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040168.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040168.JPG",
      "type": "RGB"
     }
    ],
@@ -9650,7 +9650,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040169.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040169.JPG",
      "type": "RGB"
     }
    ],
@@ -9714,7 +9714,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040170.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040170.JPG",
      "type": "RGB"
     }
    ],
@@ -9778,7 +9778,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040171.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040171.JPG",
      "type": "RGB"
     }
    ],
@@ -9842,7 +9842,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040172.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040172.JPG",
      "type": "RGB"
     }
    ],
@@ -9906,7 +9906,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040173.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040173.JPG",
      "type": "RGB"
     }
    ],
@@ -9937,7 +9937,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040174.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040174.JPG",
      "type": "RGB"
     }
    ],
@@ -10001,7 +10001,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040175.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040175.JPG",
      "type": "RGB"
     }
    ],
@@ -10032,7 +10032,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040176.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040176.JPG",
      "type": "RGB"
     }
    ],
@@ -10096,7 +10096,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040177.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040177.JPG",
      "type": "RGB"
     }
    ],
@@ -10127,7 +10127,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040178.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040178.JPG",
      "type": "RGB"
     }
    ],
@@ -10191,7 +10191,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040179.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040179.JPG",
      "type": "RGB"
     }
    ],
@@ -10255,7 +10255,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040180.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040180.JPG",
      "type": "RGB"
     }
    ],
@@ -10319,7 +10319,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040181.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040181.JPG",
      "type": "RGB"
     }
    ],
@@ -10383,7 +10383,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040182.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040182.JPG",
      "type": "RGB"
     }
    ],
@@ -10447,7 +10447,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040183.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040183.JPG",
      "type": "RGB"
     }
    ],
@@ -10478,7 +10478,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040184.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040184.JPG",
      "type": "RGB"
     }
    ],
@@ -10542,7 +10542,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040185.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040185.JPG",
      "type": "RGB"
     }
    ],
@@ -10573,7 +10573,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040186.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040186.JPG",
      "type": "RGB"
     }
    ],
@@ -10637,7 +10637,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040187.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040187.JPG",
      "type": "RGB"
     }
    ],
@@ -10668,7 +10668,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040188.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040188.JPG",
      "type": "RGB"
     }
    ],
@@ -10732,7 +10732,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040189.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040189.JPG",
      "type": "RGB"
     }
    ],
@@ -10763,7 +10763,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040190.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040190.JPG",
      "type": "RGB"
     }
    ],
@@ -10827,7 +10827,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040191.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040191.JPG",
      "type": "RGB"
     }
    ],
@@ -10858,7 +10858,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040192.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040192.JPG",
      "type": "RGB"
     }
    ],
@@ -10922,7 +10922,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040193.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040193.JPG",
      "type": "RGB"
     }
    ],
@@ -10953,7 +10953,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040194.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040194.JPG",
      "type": "RGB"
     }
    ],
@@ -11017,7 +11017,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040195.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040195.JPG",
      "type": "RGB"
     }
    ],
@@ -11048,7 +11048,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040196.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040196.JPG",
      "type": "RGB"
     }
    ],
@@ -11112,7 +11112,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040197.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040197.JPG",
      "type": "RGB"
     }
    ],
@@ -11143,7 +11143,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040198.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040198.JPG",
      "type": "RGB"
     }
    ],
@@ -11207,7 +11207,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040199.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040199.JPG",
      "type": "RGB"
     }
    ],
@@ -11238,7 +11238,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040200.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040200.JPG",
      "type": "RGB"
     }
    ],
@@ -11302,7 +11302,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040201.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040201.JPG",
      "type": "RGB"
     }
    ],
@@ -11333,7 +11333,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040202.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040202.JPG",
      "type": "RGB"
     }
    ],
@@ -11397,7 +11397,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040203.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040203.JPG",
      "type": "RGB"
     }
    ],
@@ -11428,7 +11428,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040204.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040204.JPG",
      "type": "RGB"
     }
    ],
@@ -11492,7 +11492,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040205.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040205.JPG",
      "type": "RGB"
     }
    ],
@@ -11523,7 +11523,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040206.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040206.JPG",
      "type": "RGB"
     }
    ],
@@ -11587,7 +11587,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040207.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040207.JPG",
      "type": "RGB"
     }
    ],
@@ -11618,7 +11618,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040208.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040208.JPG",
      "type": "RGB"
     }
    ],
@@ -11682,7 +11682,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040209.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040209.JPG",
      "type": "RGB"
     }
    ],
@@ -11713,7 +11713,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040210.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040210.JPG",
      "type": "RGB"
     }
    ],
@@ -11777,7 +11777,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040211.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040211.JPG",
      "type": "RGB"
     }
    ],
@@ -11808,7 +11808,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040212.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040212.JPG",
      "type": "RGB"
     }
    ],
@@ -11872,7 +11872,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040213.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040213.JPG",
      "type": "RGB"
     }
    ],
@@ -11903,7 +11903,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040214.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040214.JPG",
      "type": "RGB"
     }
    ],
@@ -11967,7 +11967,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040215.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040215.JPG",
      "type": "RGB"
     }
    ],
@@ -11998,7 +11998,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040216.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040216.JPG",
      "type": "RGB"
     }
    ],
@@ -12062,7 +12062,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040217.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040217.JPG",
      "type": "RGB"
     }
    ],
@@ -12093,7 +12093,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040218.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040218.JPG",
      "type": "RGB"
     }
    ],
@@ -12147,7 +12147,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040219.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040219.JPG",
      "type": "RGB"
     }
    ],
@@ -12178,7 +12178,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040220.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040220.JPG",
      "type": "RGB"
     }
    ],
@@ -12232,7 +12232,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040221.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040221.JPG",
      "type": "RGB"
     }
    ],
@@ -12263,7 +12263,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040222.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040222.JPG",
      "type": "RGB"
     }
    ],
@@ -12319,7 +12319,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040223.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040223.JPG",
      "type": "RGB"
     }
    ],
@@ -12350,7 +12350,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040224.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040224.JPG",
      "type": "RGB"
     }
    ],
@@ -12404,7 +12404,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040225.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040225.JPG",
      "type": "RGB"
     }
    ],
@@ -12435,7 +12435,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040226.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040226.JPG",
      "type": "RGB"
     }
    ],
@@ -12489,7 +12489,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040227.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040227.JPG",
      "type": "RGB"
     }
    ],
@@ -12520,7 +12520,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040228.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040228.JPG",
      "type": "RGB"
     }
    ],
@@ -12574,7 +12574,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040229.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040229.JPG",
      "type": "RGB"
     }
    ],
@@ -12605,7 +12605,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040230.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040230.JPG",
      "type": "RGB"
     }
    ],
@@ -12681,7 +12681,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040231.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040231.JPG",
      "type": "RGB"
     }
    ],
@@ -12712,7 +12712,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040232.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040232.JPG",
      "type": "RGB"
     }
    ],
@@ -12766,7 +12766,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040233.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040233.JPG",
      "type": "RGB"
     }
    ],
@@ -12797,7 +12797,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040234.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040234.JPG",
      "type": "RGB"
     }
    ],
@@ -12851,7 +12851,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040235.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040235.JPG",
      "type": "RGB"
     }
    ],
@@ -12882,7 +12882,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040236.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040236.JPG",
      "type": "RGB"
     }
    ],
@@ -12936,7 +12936,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040237.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040237.JPG",
      "type": "RGB"
     }
    ],
@@ -12967,7 +12967,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040238.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040238.JPG",
      "type": "RGB"
     }
    ],
@@ -13021,7 +13021,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040239.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040239.JPG",
      "type": "RGB"
     }
    ],
@@ -13052,7 +13052,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040240.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040240.JPG",
      "type": "RGB"
     }
    ],
@@ -13106,7 +13106,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040241.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040241.JPG",
      "type": "RGB"
     }
    ],
@@ -13298,7 +13298,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040242.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040242.JPG",
      "type": "RGB"
     }
    ],
@@ -13352,7 +13352,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040243.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040243.JPG",
      "type": "RGB"
     }
    ],
@@ -13406,7 +13406,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040244.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040244.JPG",
      "type": "RGB"
     }
    ],
@@ -13460,7 +13460,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040245.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040245.JPG",
      "type": "RGB"
     }
    ],
@@ -13514,7 +13514,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040246.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040246.JPG",
      "type": "RGB"
     }
    ],
@@ -13568,7 +13568,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040247.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040247.JPG",
      "type": "RGB"
     }
    ],
@@ -13622,7 +13622,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040248.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040248.JPG",
      "type": "RGB"
     }
    ],
@@ -13676,7 +13676,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040249.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040249.JPG",
      "type": "RGB"
     }
    ],
@@ -13707,7 +13707,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040250.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040250.JPG",
      "type": "RGB"
     }
    ],
@@ -13761,7 +13761,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040251.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040251.JPG",
      "type": "RGB"
     }
    ],
@@ -13815,7 +13815,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040252.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040252.JPG",
      "type": "RGB"
     }
    ],
@@ -13869,7 +13869,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040253.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040253.JPG",
      "type": "RGB"
     }
    ],
@@ -13923,7 +13923,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040254.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040254.JPG",
      "type": "RGB"
     }
    ],
@@ -13977,7 +13977,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040255.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040255.JPG",
      "type": "RGB"
     }
    ],
@@ -14008,7 +14008,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040256.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040256.JPG",
      "type": "RGB"
     }
    ],
@@ -14072,7 +14072,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040257.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040257.JPG",
      "type": "RGB"
     }
    ],
@@ -14103,7 +14103,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040258.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040258.JPG",
      "type": "RGB"
     }
    ],
@@ -14167,7 +14167,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040259.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040259.JPG",
      "type": "RGB"
     }
    ],
@@ -14198,7 +14198,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040260.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040260.JPG",
      "type": "RGB"
     }
    ],
@@ -14229,7 +14229,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040261.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040261.JPG",
      "type": "RGB"
     }
    ],
@@ -14260,7 +14260,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040262.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040262.JPG",
      "type": "RGB"
     }
    ],
@@ -14291,7 +14291,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040263.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040263.JPG",
      "type": "RGB"
     }
    ],
@@ -14355,7 +14355,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040264.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040264.JPG",
      "type": "RGB"
     }
    ],
@@ -14386,7 +14386,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040265.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040265.JPG",
      "type": "RGB"
     }
    ],
@@ -14440,7 +14440,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040266.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040266.JPG",
      "type": "RGB"
     }
    ],
@@ -14471,7 +14471,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040267.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040267.JPG",
      "type": "RGB"
     }
    ],
@@ -14535,7 +14535,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040268.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040268.JPG",
      "type": "RGB"
     }
    ],
@@ -14566,7 +14566,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040269.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040269.JPG",
      "type": "RGB"
     }
    ],
@@ -14620,7 +14620,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040270.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040270.JPG",
      "type": "RGB"
     }
    ],
@@ -14651,7 +14651,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040271.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040271.JPG",
      "type": "RGB"
     }
    ],
@@ -14715,7 +14715,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040272.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040272.JPG",
      "type": "RGB"
     }
    ],
@@ -14746,7 +14746,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040273.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040273.JPG",
      "type": "RGB"
     }
    ],
@@ -14810,7 +14810,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040274.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040274.JPG",
      "type": "RGB"
     }
    ],
@@ -14874,7 +14874,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040275.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040275.JPG",
      "type": "RGB"
     }
    ],
@@ -14905,7 +14905,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040276.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040276.JPG",
      "type": "RGB"
     }
    ],
@@ -14959,7 +14959,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040277.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040277.JPG",
      "type": "RGB"
     }
    ],
@@ -14990,7 +14990,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040278.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040278.JPG",
      "type": "RGB"
     }
    ],
@@ -15044,7 +15044,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040279.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040279.JPG",
      "type": "RGB"
     }
    ],
@@ -15075,7 +15075,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040280.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040280.JPG",
      "type": "RGB"
     }
    ],
@@ -15193,7 +15193,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040281.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040281.JPG",
      "type": "RGB"
     }
    ],
@@ -15224,7 +15224,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040282.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040282.JPG",
      "type": "RGB"
     }
    ],
@@ -15322,7 +15322,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040283.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040283.JPG",
      "type": "RGB"
     }
    ],
@@ -15353,7 +15353,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040284.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040284.JPG",
      "type": "RGB"
     }
    ],
@@ -15407,7 +15407,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040285.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040285.JPG",
      "type": "RGB"
     }
    ],
@@ -15438,7 +15438,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040286.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040286.JPG",
      "type": "RGB"
     }
    ],
@@ -15534,7 +15534,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040287.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040287.JPG",
      "type": "RGB"
     }
    ],
@@ -15565,7 +15565,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040288.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040288.JPG",
      "type": "RGB"
     }
    ],
@@ -15619,7 +15619,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040289.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040289.JPG",
      "type": "RGB"
     }
    ],
@@ -15650,7 +15650,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040290.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040290.JPG",
      "type": "RGB"
     }
    ],
@@ -15726,7 +15726,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040291.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040291.JPG",
      "type": "RGB"
     }
    ],
@@ -15757,7 +15757,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040292.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040292.JPG",
      "type": "RGB"
     }
    ],
@@ -15811,7 +15811,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040293.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040293.JPG",
      "type": "RGB"
     }
    ],
@@ -15842,7 +15842,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040294.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040294.JPG",
      "type": "RGB"
     }
    ],
@@ -15873,7 +15873,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040295.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040295.JPG",
      "type": "RGB"
     }
    ],
@@ -15904,7 +15904,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040296.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040296.JPG",
      "type": "RGB"
     }
    ],
@@ -15968,7 +15968,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040297.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040297.JPG",
      "type": "RGB"
     }
    ],
@@ -15999,7 +15999,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040298.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040298.JPG",
      "type": "RGB"
     }
    ],
@@ -16063,7 +16063,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040299.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040299.JPG",
      "type": "RGB"
     }
    ],
@@ -16094,7 +16094,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040300.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040300.JPG",
      "type": "RGB"
     }
    ],
@@ -16150,7 +16150,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040301.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040301.JPG",
      "type": "RGB"
     }
    ],
@@ -16181,7 +16181,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040302.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040302.JPG",
      "type": "RGB"
     }
    ],
@@ -16257,7 +16257,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040303.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040303.JPG",
      "type": "RGB"
     }
    ],
@@ -16288,7 +16288,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040304.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040304.JPG",
      "type": "RGB"
     }
    ],
@@ -16342,7 +16342,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040305.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040305.JPG",
      "type": "RGB"
     }
    ],
@@ -16398,7 +16398,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040306.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040306.JPG",
      "type": "RGB"
     }
    ],
@@ -16452,7 +16452,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040307.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040307.JPG",
      "type": "RGB"
     }
    ],
@@ -16492,7 +16492,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040308.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040308.JPG",
      "type": "RGB"
     }
    ],
@@ -16532,7 +16532,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040309.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040309.JPG",
      "type": "RGB"
     }
    ],
@@ -16563,7 +16563,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040310.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040310.JPG",
      "type": "RGB"
     }
    ],
@@ -16594,7 +16594,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040311.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040311.JPG",
      "type": "RGB"
     }
    ],
@@ -16625,7 +16625,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040312.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040312.JPG",
      "type": "RGB"
     }
    ],
@@ -16656,7 +16656,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040313.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040313.JPG",
      "type": "RGB"
     }
    ],
@@ -16696,7 +16696,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040314.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040314.JPG",
      "type": "RGB"
     }
    ],
@@ -16727,7 +16727,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040315.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040315.JPG",
      "type": "RGB"
     }
    ],
@@ -16791,7 +16791,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040316.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040316.JPG",
      "type": "RGB"
     }
    ],
@@ -16822,7 +16822,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040317.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040317.JPG",
      "type": "RGB"
     }
    ],
@@ -16886,7 +16886,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040318.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040318.JPG",
      "type": "RGB"
     }
    ],
@@ -16917,7 +16917,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040319.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040319.JPG",
      "type": "RGB"
     }
    ],
@@ -16981,7 +16981,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040320.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040320.JPG",
      "type": "RGB"
     }
    ],
@@ -17021,7 +17021,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040321.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040321.JPG",
      "type": "RGB"
     }
    ],
@@ -17052,7 +17052,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040322.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040322.JPG",
      "type": "RGB"
     }
    ],
@@ -17116,7 +17116,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040324.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040324.JPG",
      "type": "RGB"
     }
    ],
@@ -17147,7 +17147,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040325.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040325.JPG",
      "type": "RGB"
     }
    ],
@@ -17178,7 +17178,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040326.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040326.JPG",
      "type": "RGB"
     }
    ],
@@ -17209,7 +17209,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040327.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040327.JPG",
      "type": "RGB"
     }
    ],
@@ -17240,7 +17240,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040328.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040328.JPG",
      "type": "RGB"
     }
    ],
@@ -17271,7 +17271,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040329.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040329.JPG",
      "type": "RGB"
     }
    ],
@@ -17311,7 +17311,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040330.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040330.JPG",
      "type": "RGB"
     }
    ],
@@ -17342,7 +17342,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "/Users/margofarley/Desktop/Thesis/hurricane_hole/camera_offloads/nathaniel/Black_NB_2-4-26/P2040331.JPG",
+     "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/nathaniel/Black_NB_2-4-26/P2040331.JPG",
      "type": "RGB"
     }
    ],

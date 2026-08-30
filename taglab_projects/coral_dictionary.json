@@ -1,5 +1,5 @@
 {
-  "Name": "Margo_Coral_Thesis_Dictionary",
+  "Name": "Margo_Coral_thesis_Dictionary",
   "Description": "Custom dictionary for Hurricane Hole surveys",
   "Labels": [
     {"name": "AAGA", "fill": [255, 255, 0], "stroke": [0, 0, 0], "description": "Agaricia agaricites"},
