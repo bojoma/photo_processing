@@ -1,2676 +1,3136 @@
 {
-    "filename": "template_project.json",
-    "working_area": null,
-    "dictionary_name": "scripps",
-    "dictionary_description": "These color codes are the ones typically used by the Scripps Institution of Oceanography (UCSD)",
-    "labels": {
-        "Empty": {
-            "id": "Empty",
-            "name": "Empty",
-            "description": null,
-            "fill": [
-                127,
-                127,
-                127
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Corallimorph/Urchin": {
-            "id": "Corallimorph/Urchin",
-            "name": "Corallimorph/Urchin",
-            "description": null,
-            "fill": [
-                255,
-                0,
-                10
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Sea Star": {
-            "id": "Sea Star",
-            "name": "Sea Star",
-            "description": null,
-            "fill": [
-                113,
-                39,
-                43
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Sea Cucumber": {
-            "id": "Sea Cucumber",
-            "name": "Sea Cucumber",
-            "description": null,
-            "fill": [
-                55,
-                5,
-                8
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Cavularia": {
-            "id": "Cavularia",
-            "name": "Cavularia",
-            "description": null,
-            "fill": [
-                158,
-                11,
-                15
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Zooanthid": {
-            "id": "Zooanthid",
-            "name": "Zooanthid",
-            "description": null,
-            "fill": [
-                121,
-                0,
-                0
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Sinularia": {
-            "id": "Sinularia",
-            "name": "Sinularia",
-            "description": null,
-            "fill": [
-                117,
-                76,
-                36
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Sarcophyton": {
-            "id": "Sarcophyton",
-            "name": "Sarcophyton",
-            "description": null,
-            "fill": [
-                96,
-                57,
-                19
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Cryptodendrum": {
-            "id": "Cryptodendrum",
-            "name": "Cryptodendrum",
-            "description": null,
-            "fill": [
-                140,
-                98,
-                57
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pocillopora": {
-            "id": "Pocillopora",
-            "name": "Pocillopora",
-            "description": null,
-            "fill": [
-                240,
-                110,
-                170
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Porite": {
-            "id": "Porite",
-            "name": "Porite",
-            "description": null,
-            "fill": [
-                0,
-                162,
-                232
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pocillopora_damicornis": {
-            "id": "Pocillopora_damicornis",
-            "name": "Pocillopora_damicornis",
-            "description": null,
-            "fill": [
-                231,
-                70,
-                170
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pocillopora_zelli": {
-            "id": "Pocillopora_zelli",
-            "name": "Pocillopora_zelli",
-            "description": null,
-            "fill": [
-                240,
-                171,
-                203
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pocillopora_eydouxi": {
-            "id": "Pocillopora_eydouxi",
-            "name": "Pocillopora_eydouxi",
-            "description": null,
-            "fill": [
-                102,
-                45,
-                145
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Stylophora": {
-            "id": "Stylophora",
-            "name": "Stylophora",
-            "description": null,
-            "fill": [
-                146,
-                39,
-                143
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Acropora_branching": {
-            "id": "Acropora_branching",
-            "name": "Acropora_branching",
-            "description": null,
-            "fill": [
-                158,
-                0,
-                93
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Acropora_corymbose": {
-            "id": "Acropora_corymbose",
-            "name": "Acropora_corymbose",
-            "description": null,
-            "fill": [
-                133,
-                96,
-                168
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Montipora_capitata": {
-            "id": "Montipora_capitata",
-            "name": "Montipora_capitata",
-            "description": null,
-            "fill": [
-                119,
-                255,
-                198
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pavona_cactus": {
-            "id": "Pavona_cactus",
-            "name": "Pavona_cactus",
-            "description": null,
-            "fill": [
-                23,
-                146,
-                144
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Porites_branching": {
-            "id": "Porites_branching",
-            "name": "Porites_branching",
-            "description": null,
-            "fill": [
-                0,
-                169,
-                157
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Favites_crust": {
-            "id": "Favites_crust",
-            "name": "Favites_crust",
-            "description": null,
-            "fill": [
-                255,
-                247,
-                153
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Montipora_crust/patula": {
-            "id": "Montipora_crust/patula",
-            "name": "Montipora_crust/patula",
-            "description": null,
-            "fill": [
-                171,
-                160,
-                0
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Montipora": {
-            "id": "Montipora",
-            "name": "Montipora",
-            "description": null,
-            "fill": [
-                0,
-                128,
-                0
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pavona_varians": {
-            "id": "Pavona_varians",
-            "name": "Pavona_varians",
-            "description": null,
-            "fill": [
-                255,
-                255,
-                0
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Porites_superfusa": {
-            "id": "Porites_superfusa",
-            "name": "Porites_superfusa",
-            "description": null,
-            "fill": [
-                251,
-                175,
-                93
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Hydnophora_pilosa": {
-            "id": "Hydnophora_pilosa",
-            "name": "Hydnophora_pilosa",
-            "description": null,
-            "fill": [
-                253,
-                198,
-                137
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Leptastrea": {
-            "id": "Leptastrea",
-            "name": "Leptastrea",
-            "description": null,
-            "fill": [
-                255,
-                245,
-                104
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Psammocora": {
-            "id": "Psammocora",
-            "name": "Psammocora",
-            "description": null,
-            "fill": [
-                163,
-                211,
-                156
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Leptoseris": {
-            "id": "Leptoseris",
-            "name": "Leptoseris",
-            "description": null,
-            "fill": [
-                130,
-                123,
-                0
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Fungia_single": {
-            "id": "Fungia_single",
-            "name": "Fungia_single",
-            "description": null,
-            "fill": [
-                242,
-                101,
-                34
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Fungia_multiple": {
-            "id": "Fungia_multiple",
-            "name": "Fungia_multiple",
-            "description": null,
-            "fill": [
-                247,
-                148,
-                29
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Porite_massive": {
-            "id": "Porite_massive",
-            "name": "Porite_massive",
-            "description": null,
-            "fill": [
-                109,
-                207,
-                246
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Porites_rus": {
-            "id": "Porites_rus",
-            "name": "Porites_rus",
-            "description": null,
-            "fill": [
-                81,
-                191,
-                223
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Flavia_matthai": {
-            "id": "Flavia_matthai",
-            "name": "Flavia_matthai",
-            "description": null,
-            "fill": [
-                122,
-                204,
-                200
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Hydnophora_microconos": {
-            "id": "Hydnophora_microconos",
-            "name": "Hydnophora_microconos",
-            "description": null,
-            "fill": [
-                131,
-                147,
-                202
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Montastrea": {
-            "id": "Montastrea",
-            "name": "Montastrea",
-            "description": null,
-            "fill": [
-                0,
-                174,
-                239
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Cyphastrea": {
-            "id": "Cyphastrea",
-            "name": "Cyphastrea",
-            "description": null,
-            "fill": [
-                140,
-                187,
-                184
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Lobophyllia": {
-            "id": "Lobophyllia",
-            "name": "Lobophyllia",
-            "description": null,
-            "fill": [
-                0,
-                84,
-                166
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Platgyra": {
-            "id": "Platgyra",
-            "name": "Platgyra",
-            "description": null,
-            "fill": [
-                0,
-                91,
-                127
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Favia_submassive": {
-            "id": "Favia_submassive",
-            "name": "Favia_submassive",
-            "description": null,
-            "fill": [
-                125,
-                167,
-                217
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Favites_submassive": {
-            "id": "Favites_submassive",
-            "name": "Favites_submassive",
-            "description": null,
-            "fill": [
-                27,
-                20,
-                100
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Pavona_submassive": {
-            "id": "Pavona_submassive",
-            "name": "Pavona_submassive",
-            "description": null,
-            "fill": [
-                46,
-                49,
-                146
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Goniastrea_pectinata": {
-            "id": "Goniastrea_pectinata",
-            "name": "Goniastrea_pectinata",
-            "description": null,
-            "fill": [
-                86,
-                116,
-                185
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Astreopora": {
-            "id": "Astreopora",
-            "name": "Astreopora",
-            "description": null,
-            "fill": [
-                0,
-                52,
-                113
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Acropora_table": {
-            "id": "Acropora_table",
-            "name": "Acropora_table",
-            "description": null,
-            "fill": [
-                0,
-                94,
-                32
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Montipora_plate/flabellata": {
-            "id": "Montipora_plate/flabellata",
-            "name": "Montipora_plate/flabellata",
-            "description": null,
-            "fill": [
-                89,
-                133,
-                39
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Hydnophora_exesa": {
-            "id": "Hydnophora_exesa",
-            "name": "Hydnophora_exesa",
-            "description": null,
-            "fill": [
-                0,
-                166,
-                81
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Tubinaria": {
-            "id": "Tubinaria",
-            "name": "Tubinaria",
-            "description": null,
-            "fill": [
-                141,
-                198,
-                63
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Tubastrea": {
-            "id": "Tubastrea",
-            "name": "Tubastrea",
-            "description": null,
-            "fill": [
-                170,
-                202,
-                174
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "CCA": {
-            "id": "CCA",
-            "name": "CCA",
-            "description": null,
-            "fill": [
-                254,
-                207,
-                5
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Halimeda": {
-            "id": "Halimeda",
-            "name": "Halimeda",
-            "description": null,
-            "fill": [
-                0,
-                255,
-                0
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Dictyophaeria": {
-            "id": "Dictyophaeria",
-            "name": "Dictyophaeria",
-            "description": null,
-            "fill": [
-                64,
-                102,
-                24
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Lobophora": {
-            "id": "Lobophora",
-            "name": "Lobophora",
-            "description": null,
-            "fill": [
-                233,
-                5,
-                254
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Peysonnelia": {
-            "id": "Peysonnelia",
-            "name": "Peysonnelia",
-            "description": null,
-            "fill": [
-                35,
-                177,
-                233
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "CCA Other": {
-            "id": "CCA Other",
-            "name": "CCA Other",
-            "description": null,
-            "fill": [
-                7,
-                55,
-                210
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "30/70 CCA + Turf": {
-            "id": "30/70 CCA + Turf",
-            "name": "30/70 CCA + Turf",
-            "description": null,
-            "fill": [
-                7,
-                210,
-                17
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "70/30 CCA + Turf": {
-            "id": "70/30 CCA + Turf",
-            "name": "70/30 CCA + Turf",
-            "description": null,
-            "fill": [
-                254,
-                5,
-                81
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "50/50 CCA + Turf": {
-            "id": "50/50 CCA + Turf",
-            "name": "50/50 CCA + Turf",
-            "description": null,
-            "fill": [
-                122,
-                7,
-                210
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Turf": {
-            "id": "Turf",
-            "name": "Turf",
-            "description": null,
-            "fill": [
-                36,
-                124,
-                77
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Caulerpa": {
-            "id": "Caulerpa",
-            "name": "Caulerpa",
-            "description": null,
-            "fill": [
-                133,
-                170,
-                81
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Avrainvillea": {
-            "id": "Avrainvillea",
-            "name": "Avrainvillea",
-            "description": null,
-            "fill": [
-                19,
-                41,
-                23
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Galaxaura": {
-            "id": "Galaxaura",
-            "name": "Galaxaura",
-            "description": null,
-            "fill": [
-                157,
-                29,
-                31
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Halimeda opuntia": {
-            "id": "Halimeda opuntia",
-            "name": "Halimeda opuntia",
-            "description": null,
-            "fill": [
-                161,
-                239,
-                24
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Halimeda fragilis": {
-            "id": "Halimeda fragilis",
-            "name": "Halimeda fragilis",
-            "description": null,
-            "fill": [
-                98,
-                151,
-                103
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Halimeda taenicola": {
-            "id": "Halimeda taenicola",
-            "name": "Halimeda taenicola",
-            "description": null,
-            "fill": [
-                20,
-                114,
-                20
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Diplosoma": {
-            "id": "Diplosoma",
-            "name": "Diplosoma",
-            "description": null,
-            "fill": [
-                89,
-                252,
-                100
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Unknow": {
-            "id": "Unknow",
-            "name": "Unknow",
-            "description": null,
-            "fill": [
-                225,
-                225,
-                225
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Unknow_submassive": {
-            "id": "Unknow_submassive",
-            "name": "Unknow_submassive",
-            "description": null,
-            "fill": [
-                183,
-                183,
-                183
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Unknow_massive": {
-            "id": "Unknow_massive",
-            "name": "Unknow_massive",
-            "description": null,
-            "fill": [
-                149,
-                149,
-                149
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Unknow_crust": {
-            "id": "Unknow_crust",
-            "name": "Unknow_crust",
-            "description": null,
-            "fill": [
-                85,
-                85,
-                85
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        },
-        "Other": {
-            "id": "Other",
-            "name": "Other",
-            "description": null,
-            "fill": [
-                54,
-                54,
-                54
-            ],
-            "border": [
-                200,
-                200,
-                200
-            ],
-            "visible": true
-        }
+  "filename": "template_project.json",
+  "working_area": null,
+  "dictionary_name": "Margo_Coral_thesis_Dictionary",
+  "dictionary_description": "Custom dictionary for Hurricane Hole surveys",
+  "labels": {
+    "AAGA": {
+      "id": "AAGA",
+      "name": "AAGA",
+      "description": "Agaricia agaricites",
+      "fill": [
+        255,
+        255,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
     },
-    "images": [
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300820.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300820",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300821.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300821",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300822.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300822",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300823.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300823",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300824.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300824",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300825.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300825",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300826.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300826",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300827.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300827",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300828.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300828",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300829.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300829",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300830.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300830",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300831.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300831",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300832.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300832",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300833.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300833",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300834.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300834",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300835.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300835",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300836.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300836",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300837.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300837",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300838.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300838",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300839.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300839",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300840.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300840",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300841.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300841",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300842.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300842",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300843.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300843",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300844.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300844",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300845.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300845",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300846.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300846",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300847.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300847",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300848.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300848",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300849.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300849",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300850.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300850",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300851.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300851",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300852.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300852",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300853.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300853",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300854.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300854",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300855.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300855",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300856.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300856",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300857.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300857",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300858.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300858",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300859.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300859",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300860.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300860",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300861.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300861",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300862.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300862",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300863.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300863",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300864.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300864",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300865.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300865",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300866.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300866",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300867.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300867",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        },
-        {
-            "rect": [
-                0.0,
-                0.0,
-                0.0,
-                0.0
-            ],
-            "map_px_to_mm_factor": "1",
-            "width": 4000,
-            "height": 3000,
-            "annotations": {
-                "regions": [],
-                "points": []
-            },
-            "layers": [],
-            "channels": [
-                {
-                    "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300868.JPG",
-                    "type": "RGB"
-                }
-            ],
-            "id": "P4AD0883",
-            "name": "P4300868",
-            "workspace": [],
-            "export_dataset_area": [],
-            "acquisition_date": "2026-04-20",
-            "georef_filename": "",
-            "metadata": {},
-            "sampling_areas": [],
-            "grid": null
-        }
-    ],
-    "correspondences": {},
-    "genet": {},
-    "region_attributes": {
-        "name": "",
-        "description": "",
-        "data": []
+    "ACER": {
+      "id": "ACER",
+      "name": "ACER",
+      "description": "Acropora cervicornis",
+      "fill": [
+        255,
+        0,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
     },
-    "spatial_reference_system": null,
-    "metadata": {},
-    "image_metadata_template": {},
-    "markers": {}
+    "AGAR": {
+      "id": "AGAR",
+      "name": "AGAR",
+      "description": "Agaricia spp.",
+      "fill": [
+        0,
+        255,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "ALAM": {
+      "id": "ALAM",
+      "name": "ALAM",
+      "description": "Agaricia lamarcki",
+      "fill": [
+        128,
+        255,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "APAL": {
+      "id": "APAL",
+      "name": "APAL",
+      "description": "Acropora palmata",
+      "fill": [
+        255,
+        128,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "ATEN": {
+      "id": "ATEN",
+      "name": "ATEN",
+      "description": "Agaricia tenuifolia",
+      "fill": [
+        0,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "CLAR": {
+      "id": "CLAR",
+      "name": "CLAR",
+      "description": "Cladocora arbuscula",
+      "fill": [
+        0,
+        255,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "CNAT": {
+      "id": "CNAT",
+      "name": "CNAT",
+      "description": "Colpophyllia natans",
+      "fill": [
+        0,
+        128,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "DCYL": {
+      "id": "DCYL",
+      "name": "DCYL",
+      "description": "Dendrogyra cylindrus",
+      "fill": [
+        0,
+        0,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "DLAB": {
+      "id": "DLAB",
+      "name": "DLAB",
+      "description": "Diploria labyrinthiformis",
+      "fill": [
+        255,
+        0,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "DSTO": {
+      "id": "DSTO",
+      "name": "DSTO",
+      "description": "Dichocoenia stokesii",
+      "fill": [
+        128,
+        0,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "EFAS": {
+      "id": "EFAS",
+      "name": "EFAS",
+      "description": "Eusmilia fastigiata",
+      "fill": [
+        255,
+        0,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "FFRA": {
+      "id": "FFRA",
+      "name": "FFRA",
+      "description": "Favia fragum",
+      "fill": [
+        255,
+        128,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MARE": {
+      "id": "MARE",
+      "name": "MARE",
+      "description": "Manicina areolata",
+      "fill": [
+        128,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MCAV": {
+      "id": "MCAV",
+      "name": "MCAV",
+      "description": "Montastraea cavernosa",
+      "fill": [
+        0,
+        128,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MCOM": {
+      "id": "MCOM",
+      "name": "MCOM",
+      "description": "Millepora complanata",
+      "fill": [
+        255,
+        128,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MEAN": {
+      "id": "MEAN",
+      "name": "MEAN",
+      "description": "Meandrina spp.",
+      "fill": [
+        255,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MILL": {
+      "id": "MILL",
+      "name": "MILL",
+      "description": "Millepora spp.",
+      "fill": [
+        128,
+        255,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MLAM": {
+      "id": "MLAM",
+      "name": "MLAM",
+      "description": "Mycetophyllia lamarckiana",
+      "fill": [
+        128,
+        0,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MMEA": {
+      "id": "MMEA",
+      "name": "MMEA",
+      "description": "Meandrina meandrites",
+      "fill": [
+        128,
+        128,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "MYCE": {
+      "id": "MYCE",
+      "name": "MYCE",
+      "description": "Mycetophyllia spp.",
+      "fill": [
+        128,
+        128,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "OANN": {
+      "id": "OANN",
+      "name": "OANN",
+      "description": "Orbicella annularis",
+      "fill": [
+        64,
+        64,
+        64
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "ODIF": {
+      "id": "ODIF",
+      "name": "ODIF",
+      "description": "Oculina diffusa",
+      "fill": [
+        192,
+        192,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "OFAV": {
+      "id": "OFAV",
+      "name": "OFAV",
+      "description": "Orbicella faveolata",
+      "fill": [
+        192,
+        64,
+        64
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "OFRA": {
+      "id": "OFRA",
+      "name": "OFRA",
+      "description": "Orbicella franksi",
+      "fill": [
+        64,
+        192,
+        64
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "ORBI": {
+      "id": "ORBI",
+      "name": "ORBI",
+      "description": "Orbicella spp.",
+      "fill": [
+        64,
+        64,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PAST": {
+      "id": "PAST",
+      "name": "PAST",
+      "description": "Porites astreoides",
+      "fill": [
+        192,
+        64,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PCLI": {
+      "id": "PCLI",
+      "name": "PCLI",
+      "description": "Pseudodiploria clivosa",
+      "fill": [
+        192,
+        192,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PDIG": {
+      "id": "PDIG",
+      "name": "PDIG",
+      "description": "digitate Porites",
+      "fill": [
+        128,
+        0,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PDIV": {
+      "id": "PDIV",
+      "name": "PDIV",
+      "description": "Porites divaricata",
+      "fill": [
+        64,
+        192,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PFUR": {
+      "id": "PFUR",
+      "name": "PFUR",
+      "description": "Porites furcata",
+      "fill": [
+        255,
+        192,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PHAM": {
+      "id": "PHAM",
+      "name": "PHAM",
+      "description": "Phyllangia americana",
+      "fill": [
+        192,
+        192,
+        64
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PPOR": {
+      "id": "PPOR",
+      "name": "PPOR",
+      "description": "Porites porites",
+      "fill": [
+        192,
+        255,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PSTR": {
+      "id": "PSTR",
+      "name": "PSTR",
+      "description": "Pseudodiploria strigosa",
+      "fill": [
+        255,
+        255,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RACR": {
+      "id": "RACR",
+      "name": "RACR",
+      "description": "Recruit_Acroporidae",
+      "fill": [
+        255,
+        0,
+        165
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RAGA": {
+      "id": "RAGA",
+      "name": "RAGA",
+      "description": "Recruit_Agariciidae",
+      "fill": [
+        0,
+        255,
+        165
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RMEA": {
+      "id": "RMEA",
+      "name": "RMEA",
+      "description": "Recruit_Meandrinidae",
+      "fill": [
+        165,
+        165,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RMER": {
+      "id": "RMER",
+      "name": "RMER",
+      "description": "Recruit_Merulinidae",
+      "fill": [
+        165,
+        0,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RMIL": {
+      "id": "RMIL",
+      "name": "RMIL",
+      "description": "Recruit_Milleporidae",
+      "fill": [
+        165,
+        255,
+        165
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RMUS": {
+      "id": "RMUS",
+      "name": "RMUS",
+      "description": "Recruit_Mussidae",
+      "fill": [
+        165,
+        255,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RPOR": {
+      "id": "RPOR",
+      "name": "RPOR",
+      "description": "Recruit_Poritidae",
+      "fill": [
+        255,
+        165,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RSID": {
+      "id": "RSID",
+      "name": "RSID",
+      "description": "Recruit_Siderastreidae",
+      "fill": [
+        0,
+        165,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "RUNC": {
+      "id": "RUNC",
+      "name": "RUNC",
+      "description": "Recruit_Unknown",
+      "fill": [
+        128,
+        128,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SBOU": {
+      "id": "SBOU",
+      "name": "SBOU",
+      "description": "Solenastrea bournoni",
+      "fill": [
+        255,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SCUB": {
+      "id": "SCUB",
+      "name": "SCUB",
+      "description": "Scolymia cubensis",
+      "fill": [
+        255,
+        192,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SIDE": {
+      "id": "SIDE",
+      "name": "SIDE",
+      "description": "Siderastrea spp.",
+      "fill": [
+        128,
+        128,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SINT": {
+      "id": "SINT",
+      "name": "SINT",
+      "description": "Stephanocoenia intersepta",
+      "fill": [
+        128,
+        255,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SLAC": {
+      "id": "SLAC",
+      "name": "SLAC",
+      "description": "Scolymia lacera",
+      "fill": [
+        192,
+        255,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SOLE": {
+      "id": "SOLE",
+      "name": "SOLE",
+      "description": "Solenastrea spp.",
+      "fill": [
+        255,
+        128,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SRAD": {
+      "id": "SRAD",
+      "name": "SRAD",
+      "description": "Siderastrea radians",
+      "fill": [
+        255,
+        128,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SSID": {
+      "id": "SSID",
+      "name": "SSID",
+      "description": "Siderastrea siderea",
+      "fill": [
+        128,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "TUBA": {
+      "id": "TUBA",
+      "name": "TUBA",
+      "description": "Tubastrea aurea",
+      "fill": [
+        0,
+        0,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "UNK": {
+      "id": "UNK",
+      "name": "UNK",
+      "description": "Unidentified",
+      "fill": [
+        255,
+        0,
+        255
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    }
+  },
+  "images": [
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300820.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300820",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300821.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300821",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300822.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300822",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300823.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300823",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300824.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300824",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300825.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300825",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300826.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300826",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300827.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300827",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300828.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300828",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300829.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300829",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300830.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300830",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300831.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300831",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300832.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300832",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300833.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300833",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300834.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300834",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300835.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300835",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300836.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300836",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300837.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300837",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300838.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300838",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300839.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300839",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300840.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300840",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300841.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300841",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300842.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300842",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300843.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300843",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300844.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300844",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300845.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300845",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300846.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300846",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300847.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300847",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300848.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300848",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300849.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300849",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300850.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300850",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300851.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300851",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300852.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300852",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300853.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300853",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300854.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300854",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300855.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300855",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300856.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300856",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300857.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300857",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300858.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300858",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300859.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300859",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300860.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300860",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300861.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300861",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300862.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300862",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300863.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300863",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300864.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300864",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300865.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300865",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300866.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300866",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300867.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300867",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    },
+    {
+      "rect": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "map_px_to_mm_factor": "1",
+      "width": 4000,
+      "height": 3000,
+      "annotations": {
+        "regions": [],
+        "points": []
+      },
+      "layers": [],
+      "channels": [
+        {
+          "filename": "/Users/margofarley/Desktop/thesis/hurricane_hole/surveys/camera_offloads/otter/Black_OC_4-30-26/P4300868.JPG",
+          "type": "RGB"
+        }
+      ],
+      "id": "P4AD0883",
+      "name": "P4300868",
+      "workspace": [],
+      "export_dataset_area": [],
+      "acquisition_date": "2026-04-20",
+      "georef_filename": "",
+      "metadata": {},
+      "sampling_areas": [],
+      "grid": null
+    }
+  ],
+  "correspondences": {},
+  "genet": {},
+  "region_attributes": {
+    "name": "",
+    "description": "",
+    "data": []
+  },
+  "spatial_reference_system": null,
+  "metadata": {},
+  "image_metadata_template": {},
+  "markers": {},
+  "dictionary": {
+    "Name": "Margo_Coral_thesis_Dictionary",
+    "Description": "Custom dictionary for Hurricane Hole surveys",
+    "Labels": [
+      {
+        "name": "AAGA",
+        "fill": [
+          255,
+          255,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Agaricia agaricites"
+      },
+      {
+        "name": "ACER",
+        "fill": [
+          255,
+          0,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Acropora cervicornis"
+      },
+      {
+        "name": "AGAR",
+        "fill": [
+          0,
+          255,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Agaricia spp."
+      },
+      {
+        "name": "ALAM",
+        "fill": [
+          128,
+          255,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Agaricia lamarcki"
+      },
+      {
+        "name": "APAL",
+        "fill": [
+          255,
+          128,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Acropora palmata"
+      },
+      {
+        "name": "ATEN",
+        "fill": [
+          0,
+          255,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Agaricia tenuifolia"
+      },
+      {
+        "name": "CLAR",
+        "fill": [
+          0,
+          255,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Cladocora arbuscula"
+      },
+      {
+        "name": "CNAT",
+        "fill": [
+          0,
+          128,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Colpophyllia natans"
+      },
+      {
+        "name": "DCYL",
+        "fill": [
+          0,
+          0,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Dendrogyra cylindrus"
+      },
+      {
+        "name": "DLAB",
+        "fill": [
+          255,
+          0,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Diploria labyrinthiformis"
+      },
+      {
+        "name": "DSTO",
+        "fill": [
+          128,
+          0,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Dichocoenia stokesii"
+      },
+      {
+        "name": "EFAS",
+        "fill": [
+          255,
+          0,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Eusmilia fastigiata"
+      },
+      {
+        "name": "FFRA",
+        "fill": [
+          255,
+          128,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Favia fragum"
+      },
+      {
+        "name": "MARE",
+        "fill": [
+          128,
+          255,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Manicina areolata"
+      },
+      {
+        "name": "MCAV",
+        "fill": [
+          0,
+          128,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Montastraea cavernosa"
+      },
+      {
+        "name": "MCOM",
+        "fill": [
+          255,
+          128,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Millepora complanata"
+      },
+      {
+        "name": "MEAN",
+        "fill": [
+          255,
+          255,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Meandrina spp."
+      },
+      {
+        "name": "MILL",
+        "fill": [
+          128,
+          255,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Millepora spp."
+      },
+      {
+        "name": "MLAM",
+        "fill": [
+          128,
+          0,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Mycetophyllia lamarckiana"
+      },
+      {
+        "name": "MMEA",
+        "fill": [
+          128,
+          128,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Meandrina meandrites"
+      },
+      {
+        "name": "MYCE",
+        "fill": [
+          128,
+          128,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Mycetophyllia spp."
+      },
+      {
+        "name": "OANN",
+        "fill": [
+          64,
+          64,
+          64
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Orbicella annularis"
+      },
+      {
+        "name": "ODIF",
+        "fill": [
+          192,
+          192,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Oculina diffusa"
+      },
+      {
+        "name": "OFAV",
+        "fill": [
+          192,
+          64,
+          64
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Orbicella faveolata"
+      },
+      {
+        "name": "OFRA",
+        "fill": [
+          64,
+          192,
+          64
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Orbicella franksi"
+      },
+      {
+        "name": "ORBI",
+        "fill": [
+          64,
+          64,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Orbicella spp."
+      },
+      {
+        "name": "PAST",
+        "fill": [
+          192,
+          64,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Porites astreoides"
+      },
+      {
+        "name": "PCLI",
+        "fill": [
+          192,
+          192,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Pseudodiploria clivosa"
+      },
+      {
+        "name": "PDIG",
+        "fill": [
+          128,
+          0,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "digitate Porites"
+      },
+      {
+        "name": "PDIV",
+        "fill": [
+          64,
+          192,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Porites divaricata"
+      },
+      {
+        "name": "PFUR",
+        "fill": [
+          255,
+          192,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Porites furcata"
+      },
+      {
+        "name": "PHAM",
+        "fill": [
+          192,
+          192,
+          64
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Phyllangia americana"
+      },
+      {
+        "name": "PPOR",
+        "fill": [
+          192,
+          255,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Porites porites"
+      },
+      {
+        "name": "PSTR",
+        "fill": [
+          255,
+          255,
+          192
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Pseudodiploria strigosa"
+      },
+      {
+        "name": "RACR",
+        "fill": [
+          255,
+          0,
+          165
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Acroporidae"
+      },
+      {
+        "name": "RAGA",
+        "fill": [
+          0,
+          255,
+          165
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Agariciidae"
+      },
+      {
+        "name": "RMEA",
+        "fill": [
+          165,
+          165,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Meandrinidae"
+      },
+      {
+        "name": "RMER",
+        "fill": [
+          165,
+          0,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Merulinidae"
+      },
+      {
+        "name": "RMIL",
+        "fill": [
+          165,
+          255,
+          165
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Milleporidae"
+      },
+      {
+        "name": "RMUS",
+        "fill": [
+          165,
+          255,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Mussidae"
+      },
+      {
+        "name": "RPOR",
+        "fill": [
+          255,
+          165,
+          0
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Poritidae"
+      },
+      {
+        "name": "RSID",
+        "fill": [
+          0,
+          165,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Siderastreidae"
+      },
+      {
+        "name": "RUNC",
+        "fill": [
+          128,
+          128,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Recruit_Unknown"
+      },
+      {
+        "name": "SBOU",
+        "fill": [
+          255,
+          255,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Solenastrea bournoni"
+      },
+      {
+        "name": "SCUB",
+        "fill": [
+          255,
+          192,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Scolymia cubensis"
+      },
+      {
+        "name": "SIDE",
+        "fill": [
+          128,
+          128,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Siderastrea spp."
+      },
+      {
+        "name": "SINT",
+        "fill": [
+          128,
+          255,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Stephanocoenia intersepta"
+      },
+      {
+        "name": "SLAC",
+        "fill": [
+          192,
+          255,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Scolymia lacera"
+      },
+      {
+        "name": "SOLE",
+        "fill": [
+          255,
+          128,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Solenastrea spp."
+      },
+      {
+        "name": "SRAD",
+        "fill": [
+          255,
+          128,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Siderastrea radians"
+      },
+      {
+        "name": "SSID",
+        "fill": [
+          128,
+          255,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Siderastrea siderea"
+      },
+      {
+        "name": "TUBA",
+        "fill": [
+          0,
+          0,
+          128
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Tubastrea aurea"
+      },
+      {
+        "name": "UNK",
+        "fill": [
+          255,
+          0,
+          255
+        ],
+        "stroke": [
+          0,
+          0,
+          0
+        ],
+        "description": "Unidentified"
+      }
+    ]
+  }
 }

@@ -4,867 +4,851 @@
   "dictionary_name": "Margo_Coral_thesis_Dictionary",
   "dictionary_description": "Custom dictionary for Hurricane Hole surveys",
   "labels": {
-    "Empty": {
-      "id": "Empty",
-      "name": "Empty",
-      "description": null,
-      "fill": [
-        127,
-        127,
-        127
-      ],
-      "border": [
-        200,
-        200,
-        200
-      ],
-      "visible": true
-    },
-    "PPOR": {
-      "id": "PPOR",
-      "name": "PPOR",
-      "description": null,
-      "fill": [
-        192,
-        255,
-        192
-      ],
-      "border": [
-        200,
-        200,
-        200
-      ],
-      "visible": true
-    },
-    "SRAD": {
-      "id": "SRAD",
-      "name": "SRAD",
-      "description": null,
-      "fill": [
-        255,
-        128,
-        128
-      ],
-      "border": [
-        200,
-        200,
-        200
-      ],
-      "visible": true
-    },
-    "SSID": {
-      "id": "SSID",
-      "name": "SSID",
-      "description": null,
-      "fill": [
-        128,
-        255,
-        128
-      ],
-      "border": [
-        200,
-        200,
-        200
-      ],
-      "visible": true
-    },
-    "PDIG": {
-      "id": "PDIG",
-      "name": "PDIG",
-      "description": null,
-      "fill": [
-        128,
-        0,
-        0
-      ],
-      "border": [
-        200,
-        200,
-        200
-      ],
-      "visible": true
-    },
     "AAGA": {
       "id": "AAGA",
       "name": "AAGA",
-      "description": null,
+      "description": "Agaricia agaricites",
       "fill": [
         255,
         255,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "ACER": {
       "id": "ACER",
       "name": "ACER",
-      "description": null,
+      "description": "Acropora cervicornis",
       "fill": [
         255,
         0,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "AGAR": {
       "id": "AGAR",
       "name": "AGAR",
-      "description": null,
+      "description": "Agaricia spp.",
       "fill": [
         0,
         255,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "ALAM": {
       "id": "ALAM",
       "name": "ALAM",
-      "description": null,
+      "description": "Agaricia lamarcki",
       "fill": [
         128,
         255,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "APAL": {
       "id": "APAL",
       "name": "APAL",
-      "description": null,
+      "description": "Acropora palmata",
       "fill": [
         255,
         128,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "ATEN": {
       "id": "ATEN",
       "name": "ATEN",
-      "description": null,
+      "description": "Agaricia tenuifolia",
       "fill": [
         0,
         255,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "CLAR": {
       "id": "CLAR",
       "name": "CLAR",
-      "description": null,
+      "description": "Cladocora arbuscula",
       "fill": [
         0,
         255,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "CNAT": {
       "id": "CNAT",
       "name": "CNAT",
-      "description": null,
+      "description": "Colpophyllia natans",
       "fill": [
         0,
         128,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "DCYL": {
       "id": "DCYL",
       "name": "DCYL",
-      "description": null,
+      "description": "Dendrogyra cylindrus",
       "fill": [
         0,
         0,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "DLAB": {
       "id": "DLAB",
       "name": "DLAB",
-      "description": null,
+      "description": "Diploria labyrinthiformis",
       "fill": [
         255,
         0,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "DSTO": {
       "id": "DSTO",
       "name": "DSTO",
-      "description": null,
+      "description": "Dichocoenia stokesii",
       "fill": [
         128,
         0,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "EFAS": {
       "id": "EFAS",
       "name": "EFAS",
-      "description": null,
+      "description": "Eusmilia fastigiata",
       "fill": [
         255,
         0,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "FFRA": {
       "id": "FFRA",
       "name": "FFRA",
-      "description": null,
+      "description": "Favia fragum",
       "fill": [
         255,
         128,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MARE": {
       "id": "MARE",
       "name": "MARE",
-      "description": null,
+      "description": "Manicina areolata",
       "fill": [
         128,
         255,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MCAV": {
       "id": "MCAV",
       "name": "MCAV",
-      "description": null,
+      "description": "Montastraea cavernosa",
       "fill": [
         0,
         128,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MCOM": {
       "id": "MCOM",
       "name": "MCOM",
-      "description": null,
+      "description": "Millepora complanata",
       "fill": [
         255,
         128,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MEAN": {
       "id": "MEAN",
       "name": "MEAN",
-      "description": null,
+      "description": "Meandrina spp.",
       "fill": [
         255,
         255,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MILL": {
       "id": "MILL",
       "name": "MILL",
-      "description": null,
+      "description": "Millepora spp.",
       "fill": [
         128,
         255,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MLAM": {
       "id": "MLAM",
       "name": "MLAM",
-      "description": null,
+      "description": "Mycetophyllia lamarckiana",
       "fill": [
         128,
         0,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MMEA": {
       "id": "MMEA",
       "name": "MMEA",
-      "description": null,
+      "description": "Meandrina meandrites",
       "fill": [
         128,
         128,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "MYCE": {
       "id": "MYCE",
       "name": "MYCE",
-      "description": null,
+      "description": "Mycetophyllia spp.",
       "fill": [
         128,
         128,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "OANN": {
       "id": "OANN",
       "name": "OANN",
-      "description": null,
+      "description": "Orbicella annularis",
       "fill": [
         64,
         64,
         64
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "ODIF": {
       "id": "ODIF",
       "name": "ODIF",
-      "description": null,
+      "description": "Oculina diffusa",
       "fill": [
         192,
         192,
         192
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "OFAV": {
       "id": "OFAV",
       "name": "OFAV",
-      "description": null,
+      "description": "Orbicella faveolata",
       "fill": [
         192,
         64,
         64
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "OFRA": {
       "id": "OFRA",
       "name": "OFRA",
-      "description": null,
+      "description": "Orbicella franksi",
       "fill": [
         64,
         192,
         64
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "ORBI": {
       "id": "ORBI",
       "name": "ORBI",
-      "description": null,
+      "description": "Orbicella spp.",
       "fill": [
         64,
         64,
         192
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "PAST": {
       "id": "PAST",
       "name": "PAST",
-      "description": null,
+      "description": "Porites astreoides",
       "fill": [
         192,
         64,
         192
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "PCLI": {
       "id": "PCLI",
       "name": "PCLI",
-      "description": null,
+      "description": "Pseudodiploria clivosa",
       "fill": [
         192,
         192,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PDIG": {
+      "id": "PDIG",
+      "name": "PDIG",
+      "description": "digitate Porites",
+      "fill": [
+        128,
+        0,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "PDIV": {
       "id": "PDIV",
       "name": "PDIV",
-      "description": null,
+      "description": "Porites divaricata",
       "fill": [
         64,
         192,
         192
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "PFUR": {
       "id": "PFUR",
       "name": "PFUR",
-      "description": null,
+      "description": "Porites furcata",
       "fill": [
         255,
         192,
         192
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "PHAM": {
       "id": "PHAM",
       "name": "PHAM",
-      "description": null,
+      "description": "Phyllangia americana",
       "fill": [
         192,
         192,
         64
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PPOR": {
+      "id": "PPOR",
+      "name": "PPOR",
+      "description": "Porites porites",
+      "fill": [
+        192,
+        255,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "PSTR": {
       "id": "PSTR",
       "name": "PSTR",
-      "description": null,
+      "description": "Pseudodiploria strigosa",
       "fill": [
         255,
         255,
         192
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RACR": {
       "id": "RACR",
       "name": "RACR",
-      "description": null,
+      "description": "Recruit_Acroporidae",
       "fill": [
         255,
         0,
         165
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RAGA": {
       "id": "RAGA",
       "name": "RAGA",
-      "description": null,
+      "description": "Recruit_Agariciidae",
       "fill": [
         0,
         255,
         165
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RMEA": {
       "id": "RMEA",
       "name": "RMEA",
-      "description": null,
+      "description": "Recruit_Meandrinidae",
       "fill": [
         165,
         165,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RMER": {
       "id": "RMER",
       "name": "RMER",
-      "description": null,
+      "description": "Recruit_Merulinidae",
       "fill": [
         165,
         0,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RMIL": {
       "id": "RMIL",
       "name": "RMIL",
-      "description": null,
+      "description": "Recruit_Milleporidae",
       "fill": [
         165,
         255,
         165
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RMUS": {
       "id": "RMUS",
       "name": "RMUS",
-      "description": null,
+      "description": "Recruit_Mussidae",
       "fill": [
         165,
         255,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RPOR": {
       "id": "RPOR",
       "name": "RPOR",
-      "description": null,
+      "description": "Recruit_Poritidae",
       "fill": [
         255,
         165,
         0
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RSID": {
       "id": "RSID",
       "name": "RSID",
-      "description": null,
+      "description": "Recruit_Siderastreidae",
       "fill": [
         0,
         165,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "RUNC": {
       "id": "RUNC",
       "name": "RUNC",
-      "description": null,
+      "description": "Recruit_Unknown",
       "fill": [
         128,
         128,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "SBOU": {
       "id": "SBOU",
       "name": "SBOU",
-      "description": null,
+      "description": "Solenastrea bournoni",
       "fill": [
         255,
         255,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "SCUB": {
       "id": "SCUB",
       "name": "SCUB",
-      "description": null,
+      "description": "Scolymia cubensis",
       "fill": [
         255,
         192,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "SIDE": {
       "id": "SIDE",
       "name": "SIDE",
-      "description": null,
+      "description": "Siderastrea spp.",
       "fill": [
         128,
         128,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "SINT": {
       "id": "SINT",
       "name": "SINT",
-      "description": null,
+      "description": "Stephanocoenia intersepta",
       "fill": [
         128,
         255,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "SLAC": {
       "id": "SLAC",
       "name": "SLAC",
-      "description": null,
+      "description": "Scolymia lacera",
       "fill": [
         192,
         255,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "SOLE": {
       "id": "SOLE",
       "name": "SOLE",
-      "description": null,
+      "description": "Solenastrea spp.",
       "fill": [
         255,
         128,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SRAD": {
+      "id": "SRAD",
+      "name": "SRAD",
+      "description": "Siderastrea radians",
+      "fill": [
+        255,
+        128,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SSID": {
+      "id": "SSID",
+      "name": "SSID",
+      "description": "Siderastrea siderea",
+      "fill": [
+        128,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "TUBA": {
       "id": "TUBA",
       "name": "TUBA",
-      "description": null,
+      "description": "Tubastrea aurea",
       "fill": [
         0,
         0,
         128
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     },
     "UNK": {
       "id": "UNK",
       "name": "UNK",
-      "description": null,
+      "description": "Unidentified",
       "fill": [
         255,
         0,
         255
       ],
       "border": [
-        200,
-        200,
-        200
+        0,
+        0,
+        0
       ],
       "visible": true
     }
