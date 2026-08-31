@@ -7,6 +7,9 @@ Usage:
   python3 scripts/export_project.py --all
 
 If --all is used, a master CSV will be written to `data/master_taglab_data.csv`.
+When exporting a single project, this script now defaults to writing only the
+per-project CSV in the project folder (named `<projectname>_taglab_data.csv`).
+Use `--skip-master` and `--no-project-csv` to control outputs.
 """
 import argparse
 import json
@@ -17,6 +20,7 @@ import sys
 REPO_ROOT = Path(__file__).resolve().parents[1]
 PROJECTS_ROOT = REPO_ROOT / 'taglab_projects'
 MASTER_CSV = REPO_ROOT / 'data' / 'master_taglab_data.csv'
+
 
 def process_project_dir(dirpath, write_project_csv=True):
     dirp = Path(dirpath)
@@ -81,6 +85,7 @@ def process_project_dir(dirpath, write_project_csv=True):
             })
 
     if write_project_csv and rows:
+        # write per-project CSV named <project_json_basename>_export.csv (previous format)
         out = dirp / (proj_file.stem + '_export.csv')
         out.parent.mkdir(parents=True, exist_ok=True)
         with open(out, 'w', newline='', encoding='utf-8') as f:
@@ -98,7 +103,12 @@ def main():
     group.add_argument('--project', '-p', help='Project folder name or path')
     group.add_argument('--all', action='store_true', help='Process all project folders')
     parser.add_argument('--no-project-csv', dest='project_csv', action='store_false', help='Do not write per-project CSV (only master)')
+    parser.add_argument('--skip-master', dest='skip_master', action='store_true', help='Do not write the master CSV (useful when exporting single projects)')
     args = parser.parse_args()
+
+    # default behavior: when running a single project, do not write the master CSV
+    if not args.all:
+        args.skip_master = True
 
     master_rows = []
     if args.all:
@@ -123,7 +133,8 @@ def main():
         if rows:
             master_rows.extend(rows)
 
-    if master_rows and (args.all or True):
+    # write master CSV unless the user requested skipping it
+    if master_rows and not args.skip_master:
         MASTER_CSV.parent.mkdir(parents=True, exist_ok=True)
         with open(MASTER_CSV, 'w', newline='', encoding='utf-8') as f:
             fieldnames = ['project_folder','photo_filename','colony_id','class','substrate','area_cm2','perimeter_cm','length_cm','width_cm']
