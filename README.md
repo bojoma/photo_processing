@@ -43,6 +43,7 @@ python3 scripts/export_project.py --all
 
 Notes:
 - Per-project wrapper scripts (`export_taglab.py`) were removed in favor of the single canonical script above. If you prefer lightweight wrappers, run `scripts/generate_project_exporters.py` to recreate them.
+- To avoid creating or updating the master CSV when exporting a single project, pass `--skip-master`.
 
 3. Use the R project for cleaning or analysis in RStudio by opening `photo_processing.Rproj`.
 
