@@ -49,7 +49,7 @@
     {"name": "SCUB", "fill": [255, 192, 255], "stroke": [0, 0, 0], "description": "Scolymia cubensis"},
     {"name": "SIDE", "fill": [128, 128, 255], "stroke": [0, 0, 0], "description": "Siderastrea spp."},
     {"name": "SINT", "fill": [128, 255, 255], "stroke": [0, 0, 0], "description": "Stephanocoenia intersepta"},
-    {"name": "SIST", "fill": [128, 255, 128], "stroke": [0, 0, 0], "description": "Siderastrea stellata"},    
+    {"name": "SIST", "fill": [128, 128, 128], "stroke": [0, 0, 0], "description": "Siderastrea stellata"},    
     {"name": "SLAC", "fill": [192, 255, 255], "stroke": [0, 0, 0], "description": "Scolymia lacera"},
     {"name": "SOLE", "fill": [255, 128, 255], "stroke": [0, 0, 0], "description": "Solenastrea spp."},
     {"name": "SRAD", "fill": [255, 128, 128], "stroke": [0, 0, 0], "description": "Siderastrea radians"},
