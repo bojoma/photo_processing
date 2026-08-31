@@ -4,6 +4,102 @@
   "dictionary_name": "Margo_Coral_thesis_Dictionary",
   "dictionary_description": "Custom dictionary for Hurricane Hole surveys",
   "labels": {
+    "SRAD": {
+      "id": "SRAD",
+      "name": "SRAD",
+      "description": "Siderastrea radians",
+      "fill": [
+        255,
+        128,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "SSID": {
+      "id": "SSID",
+      "name": "SSID",
+      "description": "Siderastrea siderea",
+      "fill": [
+        128,
+        255,
+        128
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PDIG": {
+      "id": "PDIG",
+      "name": "PDIG",
+      "description": "digitate Porites",
+      "fill": [
+        128,
+        0,
+        0
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "PAST": {
+      "id": "PAST",
+      "name": "PAST",
+      "description": "Porites astreoides",
+      "fill": [
+        192,
+        64,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "OANN": {
+      "id": "OANN",
+      "name": "OANN",
+      "description": "Orbicella annularis",
+      "fill": [
+        64,
+        64,
+        64
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
+    "ORBI": {
+      "id": "ORBI",
+      "name": "ORBI",
+      "description": "Orbicella spp.",
+      "fill": [
+        64,
+        64,
+        192
+      ],
+      "border": [
+        0,
+        0,
+        0
+      ],
+      "visible": true
+    },
     "AAGA": {
       "id": "AAGA",
       "name": "AAGA",
@@ -340,22 +436,6 @@
       ],
       "visible": true
     },
-    "OANN": {
-      "id": "OANN",
-      "name": "OANN",
-      "description": "Orbicella annularis",
-      "fill": [
-        64,
-        64,
-        64
-      ],
-      "border": [
-        0,
-        0,
-        0
-      ],
-      "visible": true
-    },
     "ODIF": {
       "id": "ODIF",
       "name": "ODIF",
@@ -404,38 +484,6 @@
       ],
       "visible": true
     },
-    "ORBI": {
-      "id": "ORBI",
-      "name": "ORBI",
-      "description": "Orbicella spp.",
-      "fill": [
-        64,
-        64,
-        192
-      ],
-      "border": [
-        0,
-        0,
-        0
-      ],
-      "visible": true
-    },
-    "PAST": {
-      "id": "PAST",
-      "name": "PAST",
-      "description": "Porites astreoides",
-      "fill": [
-        192,
-        64,
-        192
-      ],
-      "border": [
-        0,
-        0,
-        0
-      ],
-      "visible": true
-    },
     "PCLI": {
       "id": "PCLI",
       "name": "PCLI",
@@ -444,22 +492,6 @@
         192,
         192,
         255
-      ],
-      "border": [
-        0,
-        0,
-        0
-      ],
-      "visible": true
-    },
-    "PDIG": {
-      "id": "PDIG",
-      "name": "PDIG",
-      "description": "digitate Porites",
-      "fill": [
-        128,
-        0,
-        0
       ],
       "border": [
         0,
@@ -780,38 +812,6 @@
         255,
         128,
         255
-      ],
-      "border": [
-        0,
-        0,
-        0
-      ],
-      "visible": true
-    },
-    "SRAD": {
-      "id": "SRAD",
-      "name": "SRAD",
-      "description": "Siderastrea radians",
-      "fill": [
-        255,
-        128,
-        128
-      ],
-      "border": [
-        0,
-        0,
-        0
-      ],
-      "visible": true
-    },
-    "SSID": {
-      "id": "SSID",
-      "name": "SSID",
-      "description": "Siderastrea siderea",
-      "fill": [
-        128,
-        255,
-        128
       ],
       "border": [
         0,
