@@ -10406,7 +10406,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2401,
+      "Y": 1534,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10437,7 +10446,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2264,
+      "Y": 1501,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10468,7 +10486,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2112,
+      "Y": 1590,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10499,7 +10526,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1738,
+      "Y": 1114,
+      "Class": "PAST",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10530,7 +10566,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2073,
+      "Y": 1213,
+      "Class": "SIST",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10561,7 +10606,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1921,
+      "Y": 1349,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10592,7 +10646,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2060,
+      "Y": 1387,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10623,7 +10686,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2065,
+      "Y": 1361,
+      "Class": "PAST",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10654,7 +10726,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2255,
+      "Y": 1533,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10685,7 +10766,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2119,
+      "Y": 1433,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10716,7 +10806,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2020,
+      "Y": 1274,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10747,7 +10846,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2111,
+      "Y": 1276,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10778,7 +10886,24 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2258,
+      "Y": 1626,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     },
+     {
+      "Id": 1,
+      "X": 1589,
+      "Y": 1623,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10809,7 +10934,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1917,
+      "Y": 1390,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10840,7 +10974,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1659,
+      "Y": 1270,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10871,7 +11014,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1908,
+      "Y": 1442,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10902,7 +11054,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1948,
+      "Y": 1499,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10933,7 +11094,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1917,
+      "Y": 1639,
+      "Class": "PAST",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10964,7 +11134,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1821,
+      "Y": 1024,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10995,7 +11174,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2222,
+      "Y": 1280,
+      "Class": "SSID",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11026,7 +11214,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2354,
+      "Y": 1225,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11057,7 +11254,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2275,
+      "Y": 1250,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11088,7 +11294,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2139,
+      "Y": 1323,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11119,7 +11334,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1961,
+      "Y": 1162,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11150,7 +11374,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1633,
+      "Y": 1210,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11181,7 +11414,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1826,
+      "Y": 1421,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11212,7 +11454,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 2035,
+      "Y": 1646,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11243,7 +11494,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1977,
+      "Y": 795,
+      "Class": "PDIG",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -11274,7 +11534,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1897,
+      "Y": 1022,
+      "Class": "SRAD",
+      "Note": "",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
