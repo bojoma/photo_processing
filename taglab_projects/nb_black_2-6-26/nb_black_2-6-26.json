@@ -100,6 +100,22 @@
    ],
    "visible": true
   },
+  "SIST": {
+   "id": "SIST",
+   "name": "SIST",
+   "description": null,
+   "fill": [
+    128,
+    128,
+    128
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
   "AAGA": {
    "id": "AAGA",
    "name": "AAGA",
