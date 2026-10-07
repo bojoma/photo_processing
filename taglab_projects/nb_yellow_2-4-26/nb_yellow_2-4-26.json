@@ -10963,7 +10963,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1970,
+      "Y": 1381,
+      "Class": "SRAD",
+      "Note": "M",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
@@ -10994,7 +11003,16 @@
    "height": 3000,
    "annotations": {
     "regions": [],
-    "points": []
+    "points": [
+     {
+      "Id": 0,
+      "X": 1515,
+      "Y": 222,
+      "Class": "PDIG",
+      "Note": "M",
+      "Data": {}
+     }
+    ]
    },
    "layers": [],
    "channels": [
